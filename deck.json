@@ -870,6 +870,23 @@
         {
             "__type__": "Note",
             "fields": [
+                "チェリーボーイ",
+                "male virgin",
+                "'cherry boy'",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "AA3r?~{-J9",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "wasei"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "ウイルス",
                 "virus",
                 "",
@@ -1227,7 +1244,7 @@
                 "ガソリンスタンド",
                 "filling station",
                 "'gasoline stand'",
-                "gas station (US), petrol station (UK)",
+                "gas station (US)・petrol station (UK)",
                 "ガソリンスタンド",
                 "<img alt=\"ガソリンスタンドのイラスト\" src=\"gas_station.png\">",
                 "gasorinsutando"
@@ -1304,7 +1321,7 @@
             "__type__": "Note",
             "fields": [
                 "カフェ",
-                "café, coffeehouse",
+                "café・coffeehouse",
                 "",
                 "extended katakana: フェ (fe)",
                 "カフェ・喫茶店",
@@ -1413,7 +1430,7 @@
             "fields": [
                 "ハンチング帽",
                 "hunting cap",
-                "'hunting' + japanese&nbsp;帽 'bō' (hat)",
+                "'hunting' + Japanese&nbsp;帽 'bō' (hat)",
                 "",
                 "",
                 "",
@@ -1457,7 +1474,7 @@
             "__type__": "Note",
             "fields": [
                 "カーラー",
-                "curler, hair roller",
+                "curler・hair roller",
                 "",
                 "",
                 "髪にカーラーを付けた女性",
@@ -1487,7 +1504,7 @@
             "__type__": "Note",
             "fields": [
                 "ノルマ",
-                "quota, minimum requirement (tasks)",
+                "(one's) quota・assignment",
                 "Russian норма 'norma' (standard, norm)",
                 "",
                 "",
@@ -1519,7 +1536,7 @@
             "__type__": "Note",
             "fields": [
                 "ダンス",
-                "dance, dancing",
+                "dance・dancing",
                 "",
                 "",
                 "",
@@ -1564,7 +1581,7 @@
             "__type__": "Note",
             "fields": [
                 "コンセント",
-                "power outlet, socket",
+                "power outlet・socket",
                 "'concent(ric plug)'",
                 "",
                 "通常のコンセントと電気の製品の電源プラグが刺さった状態のコンセント",
@@ -1675,8 +1692,8 @@
             "__type__": "Note",
             "fields": [
                 "ソフト",
-                "computer software, video game",
-                "",
+                "software・video game console",
+                "'soft(ware)'",
                 "",
                 "",
                 "",
@@ -1685,7 +1702,8 @@
             "guid": "CbH];uoa*n",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
-                "abbr."
+                "abbr.",
+                "computing"
             ]
         },
         {
@@ -1739,7 +1757,7 @@
             "__type__": "Note",
             "fields": [
                 "トイレ",
-                "toilet, restroom",
+                "toilet・restroom",
                 "",
                 "",
                 "",
@@ -1912,7 +1930,7 @@
             "__type__": "Note",
             "fields": [
                 "ポケベル",
-                "beeper, pager",
+                "pager・beeper",
                 "'pocke(t) bell'",
                 "",
                 "",
@@ -2474,7 +2492,7 @@
             "__type__": "Note",
             "fields": [
                 "ゴム",
-                "gum, rubber",
+                "gum・rubber",
                 "Dutch 'gom'",
                 "",
                 "ルフィ・「ゴムゴムの実の能力」",
@@ -2521,7 +2539,7 @@
             "__type__": "Note",
             "fields": [
                 "ヘルスメーター",
-                "bathroom scales, scales",
+                "bathroom scales (scale)",
                 "'health meter'",
                 "",
                 "",
@@ -2899,6 +2917,38 @@
         {
             "__type__": "Note",
             "fields": [
+                "ハンドルネーム",
+                "username・handle",
+                "'handle name'",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "FZMR&&.ra%",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "wasei"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "カボチャ",
+                "pumpkin",
+                "Portuguese 'Cambodia abóbora'",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "F^JVfeK*[m",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "インキ or インク",
                 "ink",
                 "Dutch 'inkt'",
@@ -3052,7 +3102,7 @@
             "__type__": "Note",
             "fields": [
                 "コック",
-                "cook, chef",
+                "cook・chef",
                 "Dutch 'kok'",
                 "ちんちん",
                 "料理をするシェフ・コックさん",
@@ -3129,8 +3179,8 @@
             "__type__": "Note",
             "fields": [
                 "バイキング",
-                "smorgasbord, buffet",
-                "'viking'&nbsp; (from the restaurant \"Imperial Viking\")",
+                "buffet・smorgasbord",
+                "'viking'&nbsp; (from the restaurant \"Imperial Viking\")<br><br>also 'ヴァイキング'",
                 "",
                 "",
                 "",
@@ -3326,7 +3376,7 @@
             "__type__": "Note",
             "fields": [
                 "カラー",
-                "color, collar",
+                "color・collar",
                 "",
                 "",
                 "ユニコーンカラ（髪）",
@@ -3370,8 +3420,23 @@
         {
             "__type__": "Note",
             "fields": [
+                "カオス",
+                "chaos",
+                "Greek 'khaos'",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Gtae7Rq{k_",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "シール",
-                "sticker, seal",
+                "sticker・seal",
                 "",
                 "",
                 "シール・ステッカ",
@@ -3539,6 +3604,23 @@
         {
             "__type__": "Note",
             "fields": [
+                "モラトリアム人間",
+                "young adult, who doesn't want to become an adult",
+                "moratorium + Japanese 人間 '<i>ningen'</i>&nbsp;(person)",
+                "person who has not developed emotional maturity<br>(similar to <i>freeter</i>)",
+                "",
+                "",
+                ""
+            ],
+            "guid": "H;e6mCMQGW",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "wasei"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "テレビゲーム",
                 "video game",
                 "'televi(sion) game'",
@@ -3589,7 +3671,7 @@
             "__type__": "Note",
             "fields": [
                 "キーホルダー",
-                "keychain, key ring",
+                "keychain・key ring",
                 "'key holder'",
                 "",
                 "クマのキーホルダー",
@@ -3621,9 +3703,9 @@
             "__type__": "Note",
             "fields": [
                 "ポッキー",
-                "Pocky, a popular snack food",
+                "Pocky",
                 "",
-                "",
+                "biscuit stick coated with chocolate, strawberry, etc.",
                 "",
                 "",
                 "pokkī"
@@ -3666,8 +3748,8 @@
             "__type__": "Note",
             "fields": [
                 "ナフタリン",
-                "naphthalene, mothball",
-                "",
+                "naphthalene・mothball",
+                "German 'Naphthalin’",
                 "",
                 "",
                 "",
@@ -3689,6 +3771,21 @@
                 "suriru"
             ],
             "guid": "H_(b_I9y&6",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "クズ",
+                "waste・scum・piece of trash",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "H`z~YZ&<<t",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": []
         },
@@ -3728,7 +3825,7 @@
             "__type__": "Note",
             "fields": [
                 "トレーニング",
-                "training, workout",
+                "training・workout",
                 "",
                 "",
                 "",
@@ -3882,7 +3979,7 @@
             "__type__": "Note",
             "fields": [
                 "キャンプ",
-                "camp, camping",
+                "camp・camping",
                 "",
                 "",
                 "",
@@ -3912,7 +4009,7 @@
             "__type__": "Note",
             "fields": [
                 "オードブル",
-                "appetizers, party platter",
+                "appetizers・party platter",
                 "French 'hors-d'œuvre' (outside of the main work/dish)",
                 "",
                 "エビフライ、フライドポテト、ハム、ソーセージ、シュウマイなど",
@@ -4071,6 +4168,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "<div><div><div><div>サインペン</div></div></div></div>",
+                "marker・felt-tip pen",
+                "'sign pen'<br><br>trademark name of Pentel's",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "JJ(KoZYx##",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "trademark",
+                "wasei"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "ベンチ",
                 "bench",
                 "",
@@ -4087,7 +4202,7 @@
             "__type__": "Note",
             "fields": [
                 "テーマ",
-                "topic, theme",
+                "topic・theme",
                 "German 'Thema'",
                 "",
                 "",
@@ -4097,6 +4212,24 @@
             "guid": "JOWfGfInf9",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ファミコン",
+                "Nintendo Entertainment System・NES",
+                "'Fami(ly) Com(puter)'",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "JR%6VX8J~^",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -4269,8 +4402,8 @@
             "__type__": "Note",
             "fields": [
                 "ファスナー",
-                "zip fastener, zipper",
-                "",
+                "zipper・zip fastener",
+                "’fastener’",
                 "extended katakana: ファ (fa)",
                 "",
                 "",
@@ -4398,9 +4531,9 @@
             "__type__": "Note",
             "fields": [
                 "サービス",
-                "service, often used to describe something free of charge",
+                "service",
                 "",
-                "",
+                "often used to describe something free of charge",
                 "",
                 "",
                 "sābisu"
@@ -4443,7 +4576,7 @@
             "__type__": "Note",
             "fields": [
                 "スイートルーム",
-                "suite (in a hotel)",
+                "a suite in a hotel",
                 "'suite room'",
                 "",
                 "",
@@ -4495,7 +4628,7 @@
                 "シナリオ",
                 "scenario",
                 "",
-                "script, screenplay",
+                "script・screenplay",
                 "",
                 "",
                 "shinario"
@@ -4556,8 +4689,40 @@
         {
             "__type__": "Note",
             "fields": [
+                "ピンチ",
+                "tough spot・crisis",
+                "in a 'pinch'",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "L$XdeCY8IU",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "パーマ",
+                "perm (hairstyle)",
+                "'perm(anent wave)'",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "L%?k-:;&k/",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "abbr."
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "ドラマ",
-                "TV drama, soap opera",
+                "TV drama・soap opera",
                 "",
                 "",
                 "",
@@ -4782,6 +4947,21 @@
                 "meritto"
             ],
             "guid": "Lx98FM]5xQ",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "トラブル",
+                "trouble",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "L}i6cq*Nua",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": []
         },
@@ -5266,6 +5446,23 @@
         {
             "__type__": "Note",
             "fields": [
+                "コンビ",
+                "combination・pair・duo",
+                "'combi(nation)'",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "N<r4pvreib",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "abbr."
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "ハリケーン",
                 "hurricane",
                 "",
@@ -5393,7 +5590,7 @@
             "__type__": "Note",
             "fields": [
                 "ズボン",
-                "trousers (UK), <br>pants (US)",
+                "trousers (UK)・pants (US)",
                 "French 'jupon' (petticoat)",
                 "",
                 "",
@@ -5440,7 +5637,7 @@
             "__type__": "Note",
             "fields": [
                 "カルテ",
-                "medical record, patient's chart",
+                "<table><tbody><tr><td>(a patient's chart) medical record</td></tr></tbody></table>",
                 "German 'Karte' (card, chart)",
                 "",
                 "クリップボードに書き込む人",
@@ -5836,7 +6033,7 @@
             "__type__": "Note",
             "fields": [
                 "アイドル",
-                "(teen) idol, pop star",
+                "(teen) idol・pop star",
                 "",
                 "",
                 "女性アイドルグループ",
@@ -5989,9 +6186,9 @@
             "__type__": "Note",
             "fields": [
                 "ブレザー",
-                "blazer, or a school uniform with a blazer",
+                "blazer",
                 "",
-                "",
+                "a Japanese school uniform with that garment",
                 "",
                 "",
                 "burezā"
@@ -6128,8 +6325,8 @@
             "__type__": "Note",
             "fields": [
                 "ペンチ",
-                "pliers, pincers",
-                "",
+                "pliers",
+                "'pinchers'",
                 "",
                 "",
                 "",
@@ -6159,6 +6356,23 @@
         {
             "__type__": "Note",
             "fields": [
+                "ホワイトデー",
+                "White Day (March 14)",
+                "",
+                "day for giving white chocolate and other presents to female coworkers and friends in return for gifts received on Valentine's day",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Pl[LiKLZso",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "wasei"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "レンズ",
                 "lens",
                 "",
@@ -6183,6 +6397,21 @@
                 "chīmuwāku"
             ],
             "guid": "Pm?96~&QX5",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "アバズレ",
+                "bitch・shameless woman",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Po6=IiBLA_",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": []
         },
@@ -6363,7 +6592,7 @@
             "__type__": "Note",
             "fields": [
                 "キャンピングカー",
-                "camper-van, RV",
+                "camper-van・RV",
                 "'camping car'",
                 "",
                 "",
@@ -6380,7 +6609,7 @@
             "__type__": "Note",
             "fields": [
                 "ドライバー",
-                "(vehicle) driver, screwdriver",
+                "(vehicle) driver・screwdriver",
                 "'driver'",
                 "",
                 "",
@@ -6474,7 +6703,7 @@
             "__type__": "Note",
             "fields": [
                 "ジャンパー",
-                "(short) jacket, windbreaker",
+                "(short) jacket・windbreaker",
                 "'jumper'",
                 "",
                 "",
@@ -6499,6 +6728,21 @@
                 "mania"
             ],
             "guid": "QF7#A(:;L?",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "クラッシュ",
+                "crash",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "QI1U;tO`%7",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": []
         },
@@ -6673,7 +6917,7 @@
                 "アパート",
                 "apartment house",
                 "",
-                "apartment (US), flat (UK)<br>usually in small wood-structure buildings",
+                "apartment (US)・flat (UK)<br>usually in small wood-structure buildings",
                 "小さな２階建ての賃貸の集合住宅",
                 "<img alt=\"building_apart2.png (750×682)\" src=\"building_apart2.png\">",
                 "apāto"
@@ -6765,7 +7009,7 @@
             "__type__": "Note",
             "fields": [
                 "カッパ",
-                "rain coat, kappa (yokai)",
+                "rain coat・kappa (yokai)",
                 "Portugese 'capa (de chuva)'",
                 "",
                 "レインコート・カッパ",
@@ -6978,6 +7222,23 @@
             "guid": "bL:n.naEpc",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "エッチ",
+                "H・obscene",
+                "Japanese 変態 'Hentai'",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "bMHN%6z<ha",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -7387,7 +7648,7 @@
             "__type__": "Note",
             "fields": [
                 "アールブイ",
-                "RV, SUV",
+                "RV・SUV",
                 "'RV' (Recreational Vehicle)",
                 "Sports Utility Vehicle (SUV), truck, van",
                 "四輪駆動（４WD）、のSUV車",
@@ -7449,7 +7710,7 @@
             "__type__": "Note",
             "fields": [
                 "ネーム",
-                "name, name badge",
+                "name・nameplate",
                 "",
                 "",
                 "",
@@ -8274,7 +8535,7 @@
                 "シーン",
                 "scene",
                 "",
-                "sight, scenario",
+                "sight・scenario",
                 "",
                 "",
                 "shīn"
@@ -8443,7 +8704,7 @@
             "__type__": "Note",
             "fields": [
                 "トラック",
-                "truck, track",
+                "truck・track",
                 "",
                 "",
                 "",
@@ -8550,7 +8811,7 @@
             "__type__": "Note",
             "fields": [
                 "ココア",
-                "cocoa, hot chocolate",
+                "cocoa・hot chocolate",
                 "",
                 "",
                 "ココアの粉",
@@ -8819,6 +9080,21 @@
         {
             "__type__": "Note",
             "fields": [
+                "セリフ",
+                "serif, one's lines",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "g)(3ko,[3O",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "フライパン",
                 "frying pan",
                 "",
@@ -8843,6 +9119,21 @@
                 "pinsetto"
             ],
             "guid": "g-%zOei3|X",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ホームレス",
+                "homeless",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "g4BLS+A5F^",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": []
         },
@@ -8926,6 +9217,21 @@
         {
             "__type__": "Note",
             "fields": [
+                "セイウチ",
+                "walrus",
+                "Russian 'sivuch'",
+                "(Odobenus rosmarus)",
+                "",
+                "",
+                ""
+            ],
+            "guid": "g_mQ1P,?N6",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "ブラジル",
                 "Brazil",
                 "",
@@ -8944,7 +9250,7 @@
             "__type__": "Note",
             "fields": [
                 "スナック",
-                "snack, snack bar",
+                "snack",
                 "",
                 "",
                 "",
@@ -8959,8 +9265,8 @@
             "__type__": "Note",
             "fields": [
                 "オートバイ",
-                "motorcycle, motorbike",
-                "'auto bi(cycle)'",
+                "motorcycle・motorbike",
+                "'auto-bi(cycle)'",
                 "",
                 "赤いバイク・赤いオートバイ",
                 "<img alt=\"バイクのイラスト\" src=\"norimono_bike.png\">",
@@ -9084,7 +9390,7 @@
             "__type__": "Note",
             "fields": [
                 "ドンマイ",
-                "don't worry about it, \"no problem\"",
+                "\"don't worry about it\"<br>\"nvm・no problem\"<br>'it's OK'",
                 "'don('t) mi(nd)'",
                 "",
                 "",
@@ -9116,7 +9422,7 @@
             "__type__": "Note",
             "fields": [
                 "サイン",
-                "autograph, signature",
+                "autograph・signature",
                 "'sign'",
                 "",
                 "サイン色紙",
@@ -9226,8 +9532,25 @@
         {
             "__type__": "Note",
             "fields": [
+                "ニート",
+                "NEET・freeter",
+                "",
+                "young adult who's:<br>Not in Education, Employment or Training",
+                "",
+                "",
+                ""
+            ],
+            "guid": "h>3BY8+_@=",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "abbr."
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "ベッドタウン",
-                "bedroom community,&nbsp; commuter town",
+                "commuter town,<br>bedroom community",
                 "'bed town'",
                 "",
                 "",
@@ -9271,6 +9594,21 @@
             "tags": [
                 "abbr."
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ラッコ",
+                "sea otter",
+                "Ainu 'rakko'",
+                "(Enhydra lutris)",
+                "",
+                "",
+                ""
+            ],
+            "guid": "hL_I4:52rD",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
         },
         {
             "__type__": "Note",
@@ -9323,7 +9661,7 @@
             "__type__": "Note",
             "fields": [
                 "コピー",
-                "copy, photocopy",
+                "copy・photocopy",
                 "",
                 "",
                 "コピー機を使う人",
@@ -9368,7 +9706,7 @@
             "__type__": "Note",
             "fields": [
                 "ダストボックス",
-                "rubbish bin (UK), <br>garbage can (US)",
+                "rubbish bin (UK),<br>garbage can (US)",
                 "'dust box'",
                 "",
                 "",
@@ -9466,9 +9804,9 @@
             "__type__": "Note",
             "fields": [
                 "プラスアルファ",
-                "in addition, a little more than usual, and then some",
-                "'plus alpha'",
-                "extended katakana: ファ (fa) (also written プラスα&nbsp;and +α)",
+                "a little bit more,<br>icing on the cake,<br>something on top / extra",
+                "+α 'plus alpha'<br><br>also written プラスα&nbsp;",
+                "extended katakana: ファ (fa)&nbsp;",
                 "",
                 "",
                 "purasuarufa"
@@ -9657,6 +9995,23 @@
         {
             "__type__": "Note",
             "fields": [
+                "ニューハーフ",
+                "(male-to-female) crossdresser・trans woman",
+                "'new half'",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "i:UE+;)Wp7",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "wasei"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "コロッケ",
                 "croquette",
                 "",
@@ -9715,6 +10070,23 @@
             "guid": "iH,a0&do{0",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ペーパードライバー",
+                "person who has a driving licence but little or no experience actually driving",
+                "'paper driver'",
+                "(i.e., a driver only on paper)",
+                "",
+                "",
+                ""
+            ],
+            "guid": "iIW)GucOsm",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -9885,7 +10257,7 @@
             "__type__": "Note",
             "fields": [
                 "バカンス",
-                "holiday, vacation",
+                "holidays・vacation",
                 "French 'vacances'",
                 "",
                 "",
@@ -9996,7 +10368,7 @@
             "__type__": "Note",
             "fields": [
                 "ハイテク",
-                "advanced technology, high-tech",
+                "high-tech",
                 "",
                 "",
                 "",
@@ -10091,10 +10463,10 @@
             "__type__": "Note",
             "fields": [
                 "フェチ",
-                "(sexual) fetish, or other passion/enthusiasm",
+                "fetish",
                 "",
                 "extended katakana: フェ (fe)",
-                "",
+                "(a sexual fetish or just a distinctive preference)",
                 "",
                 "fechi"
             ],
@@ -10279,7 +10651,7 @@
             "__type__": "Note",
             "fields": [
                 "ブーム",
-                "boom, fad",
+                "boom・fad",
                 "",
                 "",
                 "",
@@ -10342,7 +10714,7 @@
             "__type__": "Note",
             "fields": [
                 "コース",
-                "course, route",
+                "course・route",
                 "",
                 "",
                 "トラックのコース",
@@ -10387,7 +10759,7 @@
             "__type__": "Note",
             "fields": [
                 "イギリス",
-                "English, England <br>or the United Kingdom",
+                "English・England <br>or the United Kingdom",
                 "Portuguese 'inglês', <br>Spanish 'inglez'&nbsp;",
                 "",
                 "イギリスの国旗",
@@ -10419,7 +10791,7 @@
             "__type__": "Note",
             "fields": [
                 "シューマイ",
-                "shumai, shaomai",
+                "shumai・shaomai",
                 "焼賣 - Cantonese&nbsp; 'sīu máai'・Mandarin 'shāomài'",
                 "Chinese-style steamed meat dumpling&nbsp;",
                 "美味しそうなシュウマイ",
@@ -10498,7 +10870,7 @@
             "__type__": "Note",
             "fields": [
                 "スポイト",
-                "syringe, dropper",
+                "syringe・dropper",
                 "Dutch 'spuit' (syringe)",
                 "",
                 "",
@@ -10612,6 +10984,23 @@
         {
             "__type__": "Note",
             "fields": [
+                "キャッチコピー",
+                "(advertising) slogan・catchphrase・tagline",
+                "'catch copy'",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "kq4!mZxtg^",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "wasei"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "アメリカ",
                 "America",
                 "",
@@ -10633,7 +11022,7 @@
                 "コインランドリー",
                 "coin laundry",
                 "'coin(-operated)&nbsp;laundry'",
-                "laundromat (US),&nbsp;launderette (UK)",
+                "laundromat (US)・launderette (UK)",
                 "沢山の洗濯機と乾燥機と「コインランドリ」",
                 "<img alt=\"コインランドリーのイラスト\" src=\"coin_laundry.png\">",
                 "koinrandorī"
@@ -10694,6 +11083,21 @@
         {
             "__type__": "Note",
             "fields": [
+                "オノマトペ",
+                "onomatopoeia",
+                "French ’onomatopée’",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "l>^>n$E__=",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "ヘクタール",
                 "hectare",
                 "",
@@ -10710,7 +11114,7 @@
             "__type__": "Note",
             "fields": [
                 "アンケート",
-                "questionnaire, survey",
+                "questionnaire・survey",
                 "French 'enquête'",
                 "",
                 "アンケートに答える人",
@@ -10741,6 +11145,24 @@
         {
             "__type__": "Note",
             "fields": [
+                "ノートパソコン",
+                "laptop (computer)<br>notebook (computer)",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "lKuH)yrbP{",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "ネル",
                 "flannel",
                 "",
@@ -10759,7 +11181,7 @@
             "__type__": "Note",
             "fields": [
                 "ソース",
-                "sauce, source (code)",
+                "sauce・source (code)",
                 "",
                 "",
                 "",
@@ -11116,7 +11538,7 @@
             "__type__": "Note",
             "fields": [
                 "チェック",
-                "check, cheque",
+                "check・cheque",
                 "",
                 "extended katakana: チェ (che)",
                 "",
@@ -11381,7 +11803,7 @@
             "__type__": "Note",
             "fields": [
                 "タイム",
-                "time, thyme",
+                "time・thyme",
                 "",
                 "",
                 "",
@@ -11414,8 +11836,8 @@
             "__type__": "Note",
             "fields": [
                 "タバコ",
-                "tobacco, cigarette",
-                "",
+                "tobacco・cigarette",
+                "Portuguese 'tabaco'",
                 "",
                 "",
                 "",
@@ -11782,6 +12204,21 @@
         {
             "__type__": "Note",
             "fields": [
+                "キノコ",
+                "mushroom",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "n~LlXTxcbU",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "ヨーヨー",
                 "yo-yo",
                 "",
@@ -12058,7 +12495,7 @@
             "__type__": "Note",
             "fields": [
                 "ファイナル",
-                "final, last",
+                "final",
                 "",
                 "extended katakana: ファ (fa)",
                 "",
@@ -12155,7 +12592,7 @@
             "__type__": "Note",
             "fields": [
                 "ハンドル",
-                "handle, steering wheel, or handlebars",
+                "steering wheel・handlebars",
                 "'handle'",
                 "",
                 "",
@@ -12208,6 +12645,23 @@
                 "torankurūmu"
             ],
             "guid": "p,RIDv{[<,",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "wasei"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "バスジャック",
+                "bus hijacking",
+                "bus (hi)jack",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "p1zHwt4l80",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
                 "wasei"
@@ -12386,7 +12840,7 @@
             "__type__": "Note",
             "fields": [
                 "ガード",
-                "guard, guarding",
+                "guard・guarding",
                 "",
                 "",
                 "両手を広げる警備員",
@@ -12433,7 +12887,7 @@
             "__type__": "Note",
             "fields": [
                 "セレブ",
-                "wealthy socialite, celebrity",
+                "wealthy person・socialite",
                 "'celeb(rity)'",
                 "",
                 "",
@@ -12680,7 +13134,7 @@
             "__type__": "Note",
             "fields": [
                 "アルコール",
-                "alcohol, alcoholic drink",
+                "alcohol・alcoholic drink",
                 "",
                 "",
                 "ラム酒",
@@ -12695,7 +13149,7 @@
             "__type__": "Note",
             "fields": [
                 "ガラス",
-                "glass, pane",
+                "glass・pane",
                 "Dutch 'glas'",
                 "",
                 "ガラスの靴",
@@ -13297,7 +13751,7 @@
             "__type__": "Note",
             "fields": [
                 "ワニ",
-                "crocodile, alligator",
+                "crocodile・alligator",
                 "",
                 "",
                 "クロコダイル",
@@ -13398,6 +13852,23 @@
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
                 "person"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "テンション",
+                "spirits・excitement・energy level・(good) mood",
+                "’tension’",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "s1VWK{G=SI",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "wasei"
             ]
         },
         {
@@ -13577,7 +14048,7 @@
             "__type__": "Note",
             "fields": [
                 "スタイル",
-                "(fashion) style, one's figure",
+                "(fashion) style・physique",
                 "",
                 "",
                 "",
@@ -13780,7 +14251,7 @@
             "__type__": "Note",
             "fields": [
                 "ステッキ",
-                "(walking) stick, cane",
+                "(walking) stick・cane",
                 "",
                 "",
                 "",
@@ -13788,6 +14259,21 @@
                 "sutekki"
             ],
             "guid": "t9m!iEL[n*",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "トナカイ",
+                "reindeer",
+                "Ainu 'tunahkay'",
+                "(Rangifer tarandus)",
+                "",
+                "",
+                ""
+            ],
+            "guid": "t>8@VUOA)&",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": []
         },
@@ -13855,9 +14341,9 @@
             "__type__": "Note",
             "fields": [
                 "スリーサイズ",
-                "three (female) body measurements: bust, waist, and hips",
+                "bust・waist・hips",
                 "'three size'",
-                "",
+                "three (female) body measurements or vital statistics",
                 "",
                 "",
                 "surīsaizu"
@@ -14171,6 +14657,25 @@
         {
             "__type__": "Note",
             "fields": [
+                "ポテチ",
+                "potato chips",
+                "'potato + chips'",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "u)l>Xqf/Bj",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "abbr.",
+                "colloquial",
+                "food"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "ラッシュアワー",
                 "rush hour",
                 "",
@@ -14282,8 +14787,23 @@
         {
             "__type__": "Note",
             "fields": [
+                "アイゼン",
+                "crampons・climbing irons",
+                "German 'Eisen'",
+                "metal pins of climbing shoes",
+                "",
+                "",
+                ""
+            ],
+            "guid": "uH|$F]/,2r",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "オーライ",
-                "all right, OK",
+                "all right・OK",
                 "'a(ll) righ(t)'",
                 "All right・clear&nbsp; (e.g. when guiding a driver)",
                 "",
@@ -14355,6 +14875,21 @@
                 "aruminiumu"
             ],
             "guid": "uY=9dT_BP+",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "バンザイ",
+                "banzai・hooray",
+                "万歳",
+                "trad. celebratory cheer;<br>shouted while raising both arms in the air",
+                "",
+                "",
+                ""
+            ],
+            "guid": "u[aWgd3Rwr",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": []
         },
@@ -14469,7 +15004,7 @@
             "__type__": "Note",
             "fields": [
                 "クラッカー",
-                "cracker,&nbsp;party popper",
+                "cracker・party popper",
                 "",
                 "",
                 "パーティーのクラッカー",
@@ -14479,6 +15014,23 @@
             "guid": "vDiS.41Bn=",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "キャッチボール",
+                "playing catch",
+                "'catch ball'",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "vLMCUEa=rl",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -14670,7 +15222,7 @@
             "__type__": "Note",
             "fields": [
                 "ロイヤル",
-                "royal, loyal",
+                "royal",
                 "",
                 "",
                 "かわいい王様",
@@ -14856,7 +15408,7 @@
             "__type__": "Note",
             "fields": [
                 "カメラマン",
-                "cameraman, photographer",
+                "cameraman",
                 "",
                 "",
                 "三脚で撮影をする人",
@@ -14871,9 +15423,9 @@
             "__type__": "Note",
             "fields": [
                 "ハウス",
-                "house, but especially a greenhouse",
+                "house",
                 "",
-                "",
+                "esp. a greenhouse",
                 "",
                 "",
                 "hausu"
@@ -15196,7 +15748,7 @@
             "__type__": "Note",
             "fields": [
                 "コンクール",
-                "competition, contest",
+                "competition・contest",
                 "French 'concours'",
                 "",
                 "テレビ番組の審査員",
@@ -15253,6 +15805,23 @@
             "guid": "xW*T1KYca8",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ワンパターン",
+                "conforming to a single pattern",
+                "'one pattern'",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "x].-~*]twS",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -15366,8 +15935,8 @@
             "fields": [
                 "ホッチキス",
                 "stapler",
-                "E. H. Hotchkiss, an early manufacturer",
                 "",
+                "named after the US stapler company 'Hotchkiss'",
                 "",
                 "",
                 "hotchikisu"
@@ -15585,6 +16154,23 @@
         {
             "__type__": "Note",
             "fields": [
+                "ゴールデンタイム",
+                "prime time television",
+                "'golden time'<br><br>also 'ゴールデンアワー'",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "y[^%ji.E)f",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": [
+                "wasei"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "レジ",
                 "(cash) register",
                 "",
@@ -15713,7 +16299,7 @@
             "__type__": "Note",
             "fields": [
                 "ガッツポーズ",
-                "fist pump, victory pose",
+                "fist pump・victory pose",
                 "'guts pose'",
                 "",
                 "ガッツポーズを取って喜ぶ家族",
@@ -15762,7 +16348,7 @@
             "__type__": "Note",
             "fields": [
                 "センター",
-                "center (for an activity, etc.), hub",
+                "center",
                 "",
                 "",
                 "",
@@ -15807,8 +16393,8 @@
             "__type__": "Note",
             "fields": [
                 "セメダイン",
-                "glue, adhesive",
-                "a trademark of Cemedine Co., Ltd.",
+                "glue・adhesive",
+                "’ceme(nt) dyne’<br><br>a trademark of Cemedine Co., Ltd.",
                 "",
                 "",
                 "",
@@ -15820,6 +16406,21 @@
                 "trademark",
                 "wasei"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ダース",
+                "dozen",
+                "'doz(en)'",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "z&@cEi=cZ8",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
         },
         {
             "__type__": "Note",
@@ -15915,7 +16516,7 @@
             "__type__": "Note",
             "fields": [
                 "アニメ",
-                "animation, cartoons",
+                "animation・cartoons",
                 "'anima(tion)'",
                 "",
                 "テレビを離れて見る子供",
@@ -16083,8 +16684,23 @@
         {
             "__type__": "Note",
             "fields": [
+                "ブルマ",
+                "bloomers・(girls') gym shorts",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "guid": "zX{?;Qmi*@",
+            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "ペーパーカンパニー",
-                "dummy company, shell company",
+                "bogus company,<br>dummy corporation",
                 "'paper company'",
                 "",
                 "",
