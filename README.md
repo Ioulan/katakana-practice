@@ -1,6 +1,6 @@
-# Ultimate Kana: Katakana Reading (Practice)
+# Ultimate Kana: Katakana Practice (Reading & Typing)
 
-This project is a modified version of [Katakana Reading Practice](https://ankiweb.net/shared/info/2015522924), enhanced with images, tts, etc.
+This project is a modified version of [Katakana Reading Practice](https://ankiweb.net/shared/info/2015522924), enhanced with images included, tts-audio, etc.
 
 A version-controlled Anki deck exported via CrowdAnki for learning Japanese Katakana words,
 loanwords (外来語, *gairaigo*), and Japanese-made English (和製英語, *wasei-eigo*).
@@ -31,13 +31,13 @@ In order to install and later upgrade Ultimate Kana without losing review histor
    
    **CrowdAnki: Import from git repository** - Paste this repository URL and click OK
    ```sh
-   https://github.com/Ioulan/uk-katakana-reading.git
+   https://github.com/Ioulan/katakana-practice.git
    ``` 
    **OR**
    
    **CrowdAnki: Import from disk** - download or clone this repository to your computer:
    ```bash
-   git clone https://github.com/Ioulan/uk-katakana-reading.git
+   git clone https://github.com/Ioulan/katakana-practice.git
    ```
    Browse and select for that folder (which contains `deck.json` and the `media/` dir)
 
@@ -55,7 +55,7 @@ Add Screenshots
 
 ## Card Structure
 
-Each card uses the `Katakana Reading` model with the following fields:
+Each card uses the `Katakana Practice` model with the following fields:
 
 | Field | Description | Example |
 |---|---|---|
@@ -97,5 +97,8 @@ ruby script/add_romaji.rb path/to/deck.json
 ---
 
 
-## Like my work? Buy me a coffee!
+## Support
+
+Like my work? Consider buying me a coffee!
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N8K7285XXT)
