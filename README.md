@@ -2,7 +2,7 @@
 
 This project is a modified version of [Katakana Reading Practice](https://ankiweb.net/shared/info/2015522924), enhanced with images included, tts-audio, etc.
 
-A version-controlled Anki deck exported via CrowdAnki for learning Japanese Katakana words,
+An Anki deck exported via CrowdAnki for learning Japanese Katakana words,
 loanwords (外来語, *gairaigo*), and Japanese-made English (和製英語, *wasei-eigo*).
 
 ---
@@ -66,26 +66,6 @@ Each card uses the `Katakana Practice` model with the following fields:
 | ImageDesc | Description tooltip for illustration | `矢印` |
 | Image | HTML image tag pointing to local media | `<img src="...">` |
 | Rōmaji | Modified Hepburn with macrons (hover preview) | `yūtān` |
-
----
-
-## Script Usage (`script/add_romaji.rb`)
-
-Run from the repository root:
-
-```bash
-# Populate missing Romaji fields across deck.json
-ruby script/add_romaji.rb
-
-# Preview changes without modifying files (dry run)
-ruby script/add_romaji.rb --dry-run
-
-# Force re-generation and overwrite existing Romaji fields
-ruby script/add_romaji.rb --overwrite
-
-# Specify a custom deck path
-ruby script/add_romaji.rb path/to/deck.json
-```
 
 ---
 
