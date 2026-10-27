@@ -6864,13 +6864,13 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "バーゲンセール or バーゲン",
-                        "a sale at a store",
-                        "'bargain (sale)'",
+                        "バーゲンセール",
+                        "bargain sale",
+                        "",
+                        "abbr. バーゲン or セール",
                         "",
                         "",
-                        "",
-                        "bāgensēru or bāgen"
+                        "bāgensēru"
                     ],
                     "guid": "Q2XAQ1;%,l",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -13502,7 +13502,9 @@
                     ],
                     "guid": "qTC0,|+!GS",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-                    "tags": []
+                    "tags": [
+                        "leech"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -15565,6 +15567,21 @@
                     "tags": [
                         "Katakana-Practice::wasei"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "トランクス",
+                        "boxer shorts",
+                        "'trunks'",
+                        "",
+                        "",
+                        "",
+                        "torankusu"
+                    ],
+                    "guid": "w(qgm/[|da",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
@@ -24078,13 +24095,13 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "バーゲンセール or バーゲン",
-                        "a sale at a store",
-                        "'bargain (sale)'",
+                        "バーゲンセール",
+                        "bargain sale",
+                        "",
+                        "abbr. バーゲン or セール",
                         "",
                         "",
-                        "",
-                        "bāgensēru or bāgen"
+                        "bāgensēru"
                     ],
                     "guid": "Q2XAQ1;%,l",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -30716,7 +30733,9 @@
                     ],
                     "guid": "qTC0,|+!GS",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-                    "tags": []
+                    "tags": [
+                        "leech"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -32783,6 +32802,21 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "トランクス",
+                        "boxer shorts",
+                        "'trunks'",
+                        "",
+                        "",
+                        "",
+                        "torankusu"
+                    ],
+                    "guid": "w(qgm/[|da",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "ワンワン",
                         "the sound of a dog barking",
                         "",
@@ -34542,7 +34576,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "css": "@font-face {\n  font-family: \"M Plus 2\";\n  src: url(\"_Mplus2-Regular.ttf\");\n}\n\nhtml, body {\n  height: 100%;\n  margin: 0;\n}\n\n.card {\n  font-family: \"M Plus 2\", system-ui, sans-serif;\n  color: #fff;\n  box-sizing: border-box;\n  max-width: 800px;\n  margin: 0 auto;\n  text-align: center;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n\tgap: 1rem;\n}\n\n.katakana-front {\n  font-size: clamp(1.8rem, 8vw, 3rem);\n  font-weight: 700;\n  white-space: nowrap;\n}\n\n.katakana-back {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  font-size: clamp(1.5rem, 5vw, 2rem);\n  font-weight: 200;\n  opacity: 0.7;\n  white-space: nowrap;\n  cursor: pointer;\n  transition: opacity 0.2s;\n  position: relative;\n}\n\n.katakana-back:hover {\n  opacity: 1;\n  color: #89b4fa;\n}\n\n.romaji-hover, .tooltip {\n  visibility: hidden;\n  opacity: 0;\n  color: rgba(255, 255, 255, 0.6);\n  white-space: nowrap;\n  pointer-events: none;\n  transition: opacity 0.25s cubic-bezier(0.16, 1, 0.3, 1), \n              transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), \n              visibility 0.25s ease;\n}\n\n.romaji-hover {\n  font-size: 0.7em;\n  margin-bottom: 10px;\n  transform: translateY(16px);\n}\n\n.katakana-back:hover .romaji-hover,\n.img-src:hover .romaji-hover {\n  visibility: visible;\n  opacity: 1;\n  transform: translateY(0);\n}\n\n.meaning {\n  font-size: 1.85rem;\n  font-weight: 550;\n  cursor: pointer;\n}\n\n.origin, .notes {\n  font-style: italic;\n  opacity: 0.85;\n}\n\n.origin {\n  font-size: 1.05rem;\n  margin-bottom: 0.5rem;\n}\n\n.notes {\n  font-size: 0.95rem;\n  opacity: 0.7;\n}\n\nimg {\n  max-width: 60vw;\n  max-height: 30vh;\n  object-fit: contain;\n  border-radius: 8px;\n}\n\n.img-src { \n  position: relative; \n  display: inline-block;\n  cursor: pointer;\n}\n\n.tooltip {\n  position: absolute; \n  top: 100%; \n  left: 50%; \n  margin-top: 10px;\n  transform: translateY(16px) translateX(-50%);\n}\n\n.img-src:hover .tooltip, \n.img-src:active .tooltip { \n  visibility: visible;\n  opacity: 1;\n  transform: translateY(0) translateX(-50%);\n}\n\n.audio { display: none; }\n\ncode#typeans { font: inherit; font-size: 2rem; background: none; }\ncode#typeans br ~ .typeGood { background: none; color: #fff; }\n.typeGood { background: #2e4338; color: #a6e3a1; }\n.typeBad { background: #4a2933; color: #f38ba8; }\n.typeMissed { background: #42362b; color: #fab387; }\n\n.type-result-container {\n  position: relative;\n  font-size: 2.5rem;\n  margin-bottom: 0.75rem;\n  cursor: pointer;\n}\n\n.type-result-container:hover .romaji-hover {\n  visibility: visible;\n  opacity: 1;\n  transform: translateY(0);\n}",
+            "css": "@font-face {\n  font-family: \"M Plus 2\";\n  src: url(\"_Mplus2-Regular.ttf\");\n}\n\nhtml, body {\n  height: 100%;\n  margin: 0;\n}\n\n.card {\n  font-family: \"M Plus 2\", system-ui, sans-serif;\n  color: #fff;\n  box-sizing: border-box;\n  max-width: 800px;\n  margin: 0 auto;\n  text-align: center;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n\tgap: 1rem;\n}\n\n.katakana-front {\n  font-size: clamp(1.8rem, 8vw, 3rem);\n  font-weight: 700;\n  white-space: nowrap;\n}\n\n.katakana-back {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  font-size: clamp(1.5rem, 5vw, 2rem);\n  font-weight: 200;\n  opacity: 0.7;\n  white-space: nowrap;\n  cursor: pointer;\n  transition: opacity 0.2s;\n  position: relative;\n}\n\n.katakana-back:hover {\n  opacity: 1;\n  color: #89b4fa;\n}\n\n.romaji-hover, .tooltip {\n  visibility: hidden;\n  opacity: 0;\n  color: rgba(255, 255, 255, 0.6);\n  white-space: nowrap;\n  pointer-events: none;\n  transition: opacity 0.25s cubic-bezier(0.16, 1, 0.3, 1), \n              transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), \n              visibility 0.25s ease;\n}\n\n.romaji-hover {\n  font-size: 0.7em;\n  margin-bottom: 10px;\n  transform: translateY(16px);\n}\n\n.katakana-back:hover .romaji-hover,\n.img-src:hover .romaji-hover {\n  visibility: visible;\n  opacity: 1;\n  transform: translateY(0);\n}\n\n.meaning {\n  font-size: 1.85rem;\n  font-weight: 550;\n  cursor: pointer;\n}\n\n.origin, .notes {\n  font-style: italic;\n  opacity: 0.85;\n}\n\n.origin {\n  font-size: 1.05rem;\n  margin-bottom: 0.5rem;\n}\n\n.notes {\n  font-size: 0.95rem;\n  opacity: 0.7;\n}\n\nimg {\n  max-width: 60vw;\n  max-height: 30vh;\n  object-fit: contain;\n  border-radius: 8px;\n}\n\n.img-src { \n  position: relative; \n  display: inline-block;\n  cursor: pointer;\n}\n\n.tooltip {\n  position: absolute; \n  top: 100%; \n  left: 50%; \n  margin-top: 10px;\n  transform: translateY(16px) translateX(-50%);\n}\n\n.img-src:hover .tooltip, \n.img-src:active .tooltip { \n  visibility: visible;\n  opacity: 1;\n  transform: translateY(0) translateX(-50%);\n}\n\n.audio,\n.audio * { display: none; }\n\ncode#typeans { font: inherit; font-size: 2rem; background: none; }\ncode#typeans br ~ .typeGood { background: none; color: #fff; }\n.typeGood { background: #2e4338; color: #a6e3a1; }\n.typeBad { background: #4a2933; color: #f38ba8; }\n.typeMissed { background: #42362b; color: #fab387; }\n\n.type-result-container {\n  position: relative;\n  font-size: 2.5rem;\n  margin-bottom: 0.75rem;\n  cursor: pointer;\n}\n\n.type-result-container:hover .romaji-hover {\n  visibility: visible;\n  opacity: 1;\n  transform: translateY(0);\n}",
             "flds": [
                 {
                     "collapsed": false,
@@ -34702,30 +34736,14 @@
                     "id": 5973542463752608052,
                     "name": "Katakana-Typing",
                     "ord": 1,
-                    "qfmt": "<div class=\"card\">\n  {{#Image}}\n    <div class=\"img-src\">\n      <div class=\"meaning\">\n        <div class=\"romaji-hover\">{{Meaning}}</div>\n      </div>\n      {{Image}}\n    </div>\n  {{/Image}}\n\n  {{^Image}}\n    <div class=\"meaning\">{{Meaning}}</div>\n  {{/Image}}\n\n  <div class=\"type-box-container\">\n    {{type:Katakana}}\n  </div>\n</div>"
+                    "qfmt": "<div class=\"card\">\n  {{#Image}}\n    <div class=\"img-src play-tts\">\n      <div class=\"audio\">{{tts ja_JP voices=com.brahmadeo.supertonic.tts-ja-supertonic-F1:Katakana}}</div>\n      <div class=\"meaning\">\n        <div class=\"romaji-hover\">{{Meaning}}</div>\n      </div>\n      {{Image}}\n    </div>\n  {{/Image}}\n\n  {{^Image}}\n    <div class=\"meaning\">{{Meaning}}</div>\n  {{/Image}}\n\n  <div class=\"type-box-container\">\n    {{type:Katakana}}\n  </div>\n</div>\n\n<script>\n  document.querySelectorAll('.play-tts').forEach(el => {\n    el.onclick = () => el.querySelector('a, .replay-button')?.click();\n  });\n</script>"
                 }
             ],
             "type": 0,
             "vers": []
         }
     ],
-    "notes": [
-        {
-            "__type__": "Note",
-            "fields": [
-                "トランクス",
-                "boxer shorts",
-                "'trunks'",
-                "",
-                "",
-                "",
-                "torankusu"
-            ],
-            "guid": "w(qgm/[|da",
-            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
-        }
-    ],
+    "notes": [],
     "reviewLimit": null,
     "reviewLimitToday": null
 }
