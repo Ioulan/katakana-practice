@@ -1,0 +1,57 @@
+name: Build Anki APKG
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    tags:
+      - 'v*'
+  pull_request:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Compile APKG Package
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: false
+
+      - name: Install dependencies
+        run: |
+          gem install sqlite3 --no-document
+
+      - name: Compile deck.json to .apkg
+        run: |
+          ruby script/compile_apkg.rb --output Katakana_Practice.apkg
+
+      - name: Upload APKG Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Katakana_Practice.apkg
+          path: Katakana_Practice.apkg
+          if-no-files-found: error
+          retention-days: 90
+
+      - name: Release APKG on Tag
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: Katakana_Practice.apkg
+          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

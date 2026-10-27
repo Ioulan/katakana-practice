@@ -3,14 +3,7 @@
 
 require "json"
 require "optparse"
-
-module Color
-  def self.green(s)  = "\e[32m#{s}\e[0m"
-  def self.cyan(s)   = "\e[36m#{s}\e[0m"
-  def self.yellow(s) = "\e[33m#{s}\e[0m"
-  def self.bold(s)   = "\e[1m#{s}\e[0m"
-  def self.dim(s)    = "\e[2m#{s}\e[0m"
-end
+require_relative "lib/color"
 
 module Romaji
   MACRONS = { "a" => "ā", "i" => "ī", "u" => "ū", "e" => "ē", "o" => "ō" }.freeze
