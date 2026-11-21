@@ -60,6 +60,7 @@
                 "benkyoukai_kunrenkou.png",
                 "bessou_log_house.png",
                 "bg_baseball_ground_night.jpg",
+                "bg_eki_home.jpg",
                 "bg_nangoku.jpg",
                 "bg_ryokan_hiroen.jpg",
                 "bg_snow_jutaku_yoru.jpg",
@@ -76,6 +77,7 @@
                 "book_bibliobattle_community.png",
                 "book_catalog.png",
                 "book_cover_kawa.png",
+                "book_doujin_setsuei_man.png",
                 "book_hirameki_keihatsu_man.png",
                 "book_meigensyu.png",
                 "boueki_tairitsu_nouka.png",
@@ -86,6 +88,7 @@
                 "bug_bouchuzai.png",
                 "building_apart2.png",
                 "building_cinema.png",
+                "building_kaisya.png",
                 "building_kyuuryuujousai.png",
                 "building_recycle_shop.png",
                 "building_talent_jimusyo.png",
@@ -96,6 +99,7 @@
                 "bunbougu_loseleaf.png",
                 "bunbougu_magic.png",
                 "bunbougu_marker.png",
+                "bunbougu_masking_tape_yellow.png",
                 "bunbougu_measure.png",
                 "bunbougu_pench.png",
                 "bunbougu_pencil_dozen.png",
@@ -105,6 +109,7 @@
                 "bus_2step_open.png",
                 "bus_guide.png",
                 "bus_stand.png",
+                "business_paper_company.png",
                 "business_sabori.png",
                 "business_sabori_pc_solitaire.png",
                 "butai_stage_big-2bad34ce13b676ad1fbb4c648f279c0473fba818.png",
@@ -118,6 +123,7 @@
                 "camera_satsuei_sankyaku_man.png",
                 "camp_hangou_suisan.png",
                 "camp_tent_sankaku.png",
+                "canned_meat-sauce_14769.png",
                 "canoe_couple_canadian.png",
                 "car_back3_left.png",
                 "car_back_alright.png",
@@ -129,6 +135,7 @@
                 "car_handle_cover.png",
                 "car_inkey.png",
                 "car_kei_truck.png",
+                "car_lover_woman.png",
                 "car_minivan.png",
                 "car_patocar_america.png",
                 "car_pedal_foot.png",
@@ -174,6 +181,7 @@
                 "computer_internet_sns.png",
                 "computer_kowasu_woman.png",
                 "computer_manual_man.png",
+                "computer_message_app.png",
                 "computer_mob_programming.png",
                 "computer_monitor.png",
                 "computer_net_stalker_man.png",
@@ -188,6 +196,7 @@
                 "cooking_chef.png",
                 "cooking_dendou_mixer.png",
                 "cooking_dry_yeast.png",
+                "cooking_gas_bonbe.png",
                 "cooking_hakari.png",
                 "cooking_houchou_petit_knife.png",
                 "cooking_ketchup_bin.png",
@@ -257,6 +266,7 @@
                 "eiga_set.png",
                 "engine_hatsudenki_small.png",
                 "english_reading.png",
+                "enjin_figure.png",
                 "ensoku_picnic_people.png",
                 "envelope_airmail.png",
                 "escalator_stand_center.png",
@@ -271,6 +281,8 @@
                 "fashion_belt_kawa.png",
                 "fashion_button3_black.png",
                 "fashion_dekora.png",
+                "fashion_glasses_megane.png",
+                "fashion_gothic_and_lolita.png",
                 "fashion_handkerchief_blue.png",
                 "fashion_high_heel.png",
                 "fashion_jeans.png",
@@ -279,11 +291,13 @@
                 "fashion_nerusyatsu.png",
                 "fashion_osyare_middle_man.png",
                 "fashion_oversize_tshirt_man.png",
+                "fashion_oversize_tshirt_woman.png",
                 "fashion_pansuto_stocking_densen.png",
                 "fashion_pants3_brown.png",
                 "fashion_raincoat_amagappa.png",
                 "fashion_ribbon5_pink.png",
                 "fashion_scarf.png",
+                "fashion_shitagi_man.png",
                 "fashion_show_woman.png",
                 "fashion_skirt_skircho.png",
                 "fashion_snood.png",
@@ -318,6 +332,7 @@
                 "food_jingisukan_genghis_khan.png",
                 "food_konsome_soup.png",
                 "food_korabo_cafe.png",
+                "food_margarine.png",
                 "food_menu.png",
                 "food_namahamu.png",
                 "food_omurice.png",
@@ -357,6 +372,7 @@
                 "glass_shoes.png",
                 "goal_figure.png",
                 "golf_butsukeru.png",
+                "golf_settai.png",
                 "gomi_furuzasshi.png",
                 "gomi_plastic.png",
                 "gomi_poribaketsu_close.png",
@@ -364,6 +380,7 @@
                 "gomihiroi_boy.png",
                 "goods_touyu_tank.png",
                 "graph10_oresen1.png",
+                "gym_running_man.png",
                 "gym_running_people.png",
                 "gym_training2.png",
                 "hacker_cracker1_smile.png",
@@ -379,6 +396,7 @@
                 "hammock_jiritsu_man.png",
                 "hammock_yashinoki_woman.png",
                 "hanataba.png",
+                "harem_woman.png",
                 "hat_hunting_cap.png",
                 "hawaii_food_applebanana_banapple.png",
                 "hawaii_izumotaisya.png",
@@ -387,6 +405,7 @@
                 "helicopter_keisatsu_heli.png",
                 "hero_man.png",
                 "high_touch.png",
+                "hikaku_ball_man.png",
                 "hikouki_kyoufusyou.png",
                 "hinanjo_seikatsu_family_sad.png",
                 "hirameki_man.png",
@@ -412,6 +431,7 @@
                 "illustkun-01051-germany-flag.png",
                 "illustkun-01053-tricolore.png",
                 "illustkun-01055-tricolore-italiano.png",
+                "illustkun-01059-belgium-flag.png",
                 "illustkun-01073-union-flag.png",
                 "illustkun-01075-australia-flag.png",
                 "illustkun-01077-newzealand-flag.png",
@@ -419,6 +439,7 @@
                 "illustkun-01087-thailand-flag.png",
                 "illustkun-01089-netherlands-flag.png",
                 "illustkun-01131-norway-flag.png",
+                "illustkun-01137-greece-flag.png",
                 "illustkun-01139-spanish-flag.png",
                 "illustkun-01145-vietnam-flag.png",
                 "illustkun-01147-indonesia-flag.png",
@@ -429,10 +450,13 @@
                 "illustkun-01553-ireland-flag.png",
                 "illustkun-01787-philippines-flag.png",
                 "illustkun-01791-malaysia-flag.png",
+                "illustkun-01862-turkey-flag.png",
                 "illustkun-01998-bosnia-herzegowina-flag.png",
                 "illustkun-03157-hong-kong-flag.png",
                 "illustkun-04096-iraq-flag.png",
                 "illustkun-04098-iran-flag.png",
+                "illustkun-05090-cypriot-flag.png",
+                "illustkun-05136-jordan-flag.png",
                 "illustkun-05138-laos-flag.png",
                 "image_training_man.png",
                 "images-e48f108b33813d3d2852c615e27554e51e24bae2.jpg",
@@ -445,6 +469,7 @@
                 "internet_modem_router.png",
                 "interview_man.png",
                 "iron_jiko_kaji.png",
+                "jewish_hasidism_man.png",
                 "jigenbakudan.png",
                 "jiko_car_kosyou.png",
                 "jiko_fumu_gum.png",
@@ -463,6 +488,7 @@
                 "job_interior_coordinator_man.png",
                 "job_maid_meido_kissa.png",
                 "job_mystery_shopper_man.png",
+                "job_pro_gamer.png",
                 "job_racer_man.png",
                 "job_sakankou2.png",
                 "job_seiyuu.png",
@@ -475,6 +501,7 @@
                 "joshikai_nomikai.png",
                 "juice_straw.png",
                 "kabegami_haru.png",
+                "kaden_denwa.png",
                 "kaden_kaichu_dentou.png",
                 "kaden_rimokon_ippai.png",
                 "kaden_stove.png",
@@ -546,6 +573,7 @@
                 "machine_photo_self_print.png",
                 "magari_michi.png",
                 "mahoubin_pot.png",
+                "main.png",
                 "majo_cat_houki.png",
                 "majo_girl_majokko.png",
                 "makeup_mascara.png",
@@ -590,6 +618,7 @@
                 "money_saifu_receipt_card.png",
                 "money_stema_stealth_marketing.png",
                 "money_tsuchou_cashcard.png",
+                "money_yami_soshiki.png",
                 "monomane_geinin.png",
                 "moratorium_man.png",
                 "motemote_ikemen.png",
@@ -615,6 +644,7 @@
                 "music_hikigatari_stand_woman.png",
                 "music_metronome.png",
                 "music_microphone_wireless.png",
+                "music_ongaku_kansyou.png",
                 "music_orchestra.png",
                 "music_piano.png",
                 "music_portable_amp_microphone.png",
@@ -622,6 +652,7 @@
                 "music_shikisya_woman.png",
                 "music_tuba.png",
                 "music_ukulele.png",
+                "musical_dancer_woman.png",
                 "musician_shikisya.png",
                 "musician_violin.png",
                 "musician_violin_usagi.png",
@@ -667,6 +698,7 @@
                 "onepiece01_luffy.png",
                 "onepiece01_luffy2.png",
                 "onigiri_ikura.png",
+                "onpu_monochrome_8931.png",
                 "oowarai_man.png",
                 "opera_singer_man.png",
                 "operator4_laugh.png",
@@ -715,6 +747,7 @@
                 "pose_genki05_ojisan.png",
                 "pose_gutspose_family_set.png",
                 "pose_heart_hand_woman.png",
+                "pose_kakushigoto_man.png",
                 "pose_kuyashii_man.png",
                 "pose_mail_matsu_woman.png",
                 "pose_mark_hashiru_guruguru.png",
@@ -741,6 +774,7 @@
                 "reji_cashier_supermarket.png",
                 "rental_cycle_bicycle.png",
                 "restaurant_rich_couple.png",
+                "review_man_star5.png",
                 "ribbon1-3.png",
                 "rikujou_track_side.png",
                 "ring_couple.png",
@@ -765,9 +799,11 @@
                 "school_test_seifuku_girl.png",
                 "science_dropper_supoito.png",
                 "science_shiyakubin1_small.png",
+                "search_mushimegane.png",
                 "security_body_check_man.png",
                 "sedai_bubble.png",
                 "seibu_cowboy_man.png",
+                "seifuku_aifuku_woman_cardigan.png",
                 "seifuku_blazer_man.png",
                 "seifuku_sailor.png",
                 "sekiyu_oil_money.png",
@@ -790,6 +826,7 @@
                 "shopping_hair_shampoo_rinse_machigae.png",
                 "shopping_mall_ekinaka.png",
                 "shopping_reji.png",
+                "shopping_sale.png",
                 "shopping_semi_self_reji_simple.png",
                 "shortcut_keys_ctrl_c.png",
                 "shovel_scoop_ken.png",
@@ -809,6 +846,8 @@
                 "smartphone_gorogoro_man_neet.png",
                 "smartphone_hogo_film.png",
                 "smartphone_photo_man_yoko.png",
+                "smartphone_talk03_man.png",
+                "sns_profile_sasyou_nekama_man.png",
                 "soccer_corner_man.png",
                 "sotsugyou_graduation_gown_asia_woman.png",
                 "sotsugyou_idol_girl.png",
@@ -825,6 +864,7 @@
                 "sports_marathon_man.png",
                 "sports_pose_time_woman.png",
                 "sports_pro_wrestler_mask.png",
+                "sports_referee_var_pose.png",
                 "sports_soccer_pass_man.png",
                 "sports_suibun_hokyuu_woman.png",
                 "sports_tennis_court.png",
@@ -893,6 +933,7 @@
                 "tape_serotape.png",
                 "tapioca_drink.png",
                 "tatemono_cafe.png",
+                "tatemono_department_store.png",
                 "tatemono_retal_car.png",
                 "taxi_jousya_woman.png",
                 "tea4.png",
@@ -902,6 +943,7 @@
                 "text_noclaim_noreturn.png",
                 "text_syouene_seinou.png",
                 "textbook_5kyouka_syougaku.png",
+                "ticket_kenbaiki.png",
                 "ticket_koukuuken.png",
                 "tissue_paper_box_open.png",
                 "tochi_urichi.png",
@@ -988,7 +1030,7 @@
                 "yusyou_cup_gold.png"
             ],
             "name": "Reading",
-            "newLimit": 10,
+            "newLimit": 20,
             "newLimitToday": {
                 "limit": 0,
                 "today": 274
@@ -998,7 +1040,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ピーマン",
-                        "green pepper",
+                        "bell pepper (green)",
                         "French 'piment'",
                         "",
                         "",
@@ -1062,9 +1104,9 @@
                     "__type__": "Note",
                     "fields": [
                         "ブックカバー",
-                        "dust jacket",
-                        "'book cover'",
+                        "book cover",
                         "",
+                        "dust / book jacket",
                         "革のブックカバー",
                         "<img alt=\"革のブックカバーのイラスト\" src=\"book_cover_kawa.png\">",
                         "bukkukabā"
@@ -1105,7 +1147,9 @@
                     ],
                     "guid": "86lC{~$dW",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-                    "tags": []
+                    "tags": [
+                        "leech"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -1181,7 +1225,7 @@
                         "",
                         "さくらんぼ・チェリー",
                         "<img alt=\"さくらんぼ・チェリーのイラスト（フルーツ）\" src=\"fruit_cherry.png\">",
-                        ""
+                        "cherībōi"
                     ],
                     "guid": "AA3r?~{-J9",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -1195,7 +1239,7 @@
                         "ウイルス",
                         "virus",
                         "",
-                        "(biological, computer)",
+                        "biological・computer",
                         "コロナウイルス",
                         "<img alt=\"コロナウイルスのイラスト\" src=\"virus_corona.png\">",
                         "uirusu"
@@ -1231,6 +1275,21 @@
                         "imēji"
                     ],
                     "guid": "AD6+vTLXl^",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "トルコ",
+                        "Turkey",
+                        "Portuguese 'Turco'",
+                        "",
+                        "トルコ",
+                        "<img alt=\"国旗のイラスト（トルコ）\" src=\"illustkun-01862-turkey-flag.png\">",
+                        "toruko"
+                    ],
+                    "guid": "AE?cH&6jR$",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
                     "tags": []
                 },
@@ -1501,6 +1560,23 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "パイプカット",
+                        "vasectomy",
+                        "'pipe cut'",
+                        "",
+                        "",
+                        "",
+                        "paipukatto"
+                    ],
+                    "guid": "Ay8=X)|qiv",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::wasei"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "ユニーク",
                         "unique",
                         "",
@@ -1763,17 +1839,19 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "モノクローム or モノクロ",
+                        "モノクロ",
                         "monochrome",
-                        "",
+                        "abbr. of モノクローム",
                         "",
                         "鯨幕",
                         "<img alt=\"鯨幕のイラスト\" src=\"maku_kujira.png\">",
-                        "monokurōmu or monokuro"
+                        "monokuro"
                     ],
                     "guid": "Bq6w~~po@$",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-                    "tags": []
+                    "tags": [
+                        "Katakana-Practice::abbr."
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -1935,7 +2013,7 @@
                     "__type__": "Note",
                     "fields": [
                         "リンク",
-                        "link, rink",
+                        "link・rink",
                         "",
                         "",
                         "鎖のマーク",
@@ -2406,8 +2484,8 @@
                         "frame",
                         "",
                         "such as for eyeglass",
-                        "",
-                        "",
+                        "シンプルな黒縁メガネ",
+                        "<img alt=\"眼鏡のイラスト\" src=\"fashion_glasses_megane.png\">",
                         "furēmu"
                     ],
                     "guid": "DW1:bSZ8~e",
@@ -2451,7 +2529,7 @@
                     "fields": [
                         "レントゲン",
                         "X-ray",
-                        "Wilhelm Conrad Röntgen,<br>the man who discovered X-rays",
+                        "Röntgen, Wilhelm Conrad;&nbsp;<br>the man who discovered X-rays",
                         "",
                         "",
                         "<img alt=\"doctor_xray_rentogen.png (787×800)\" src=\"doctor_xray_rentogen.png\">",
@@ -2574,9 +2652,9 @@
                     "__type__": "Note",
                     "fields": [
                         "ボリューム",
-                        "volume (sound, amount)",
+                        "volume&nbsp;",
                         "",
-                        "",
+                        "sound・amount",
                         "",
                         "",
                         "boryūmu"
@@ -2844,7 +2922,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ヘルスメーター",
-                        "bathroom scales",
+                        "bathroom scale",
                         "'health meter'",
                         "",
                         "太ったの男性が体重を測ってしかめっ面をしている",
@@ -3021,7 +3099,7 @@
                         "ホルモン",
                         "hormone・offal",
                         "",
-                        "(biology, medicine) hormone<br>(food) offal; pig or cow entrails&nbsp;",
+                        "(biology, medicine) hormone<br>(food) offal; pig / cow entrails&nbsp;",
                         "<div>ギアラ（牛肉ホルモン）</div>",
                         "<img alt=\"ギアラのイラスト（牛肉ホルモン）\" src=\"ushi_giara.png\">",
                         "horumon"
@@ -3228,7 +3306,7 @@
                         "",
                         "SNSが表示されたコンピューター",
                         "<img alt=\"SNSが表示されたコンピューターのイラスト\" src=\"computer_internet_sns.png\">",
-                        ""
+                        "handorunēmu"
                     ],
                     "guid": "FZMR&&.ra%",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -3245,7 +3323,7 @@
                         "",
                         "ハロウィンのカボチャ",
                         "<img alt=\"ハロウィンのカボチャのイラスト5\" src=\"halloween_pumpkin5.png\">",
-                        ""
+                        "kabocha"
                     ],
                     "guid": "F^JVfeK*[m",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -3438,6 +3516,23 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "ヨルダン",
+                        "Jordan",
+                        "",
+                        "",
+                        "ヨルダンの国旗",
+                        "<img alt=\"国旗のイラスト（ヨルダン・ハシミテ王国）\" src=\"illustkun-05136-jordan-flag.png\">",
+                        "yorudan"
+                    ],
+                    "guid": "G:^%QO2eiC",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::place"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "カメラ",
                         "camera",
                         "",
@@ -3479,6 +3574,23 @@
                     "guid": "GB;/(T2UT&",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ルームランナー",
+                        "treadmill",
+                        "'room runner'",
+                        "esp. for home use",
+                        "スポーツジムのランニングマシーンを使って走っている男性",
+                        "<img alt=\"ランニングマシンで走る人のイラスト（男性）\" src=\"gym_running_man.png\">",
+                        "rūmurannā"
+                    ],
+                    "guid": "GHD!@p+4&",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::wasei"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -3731,7 +3843,7 @@
                         "",
                         "パニック（棒人間）",
                         "<img alt=\"パニックのイラスト（棒人間）\" src=\"figure_panic.png\">",
-                        ""
+                        "kaosu"
                     ],
                     "guid": "Gtae7Rq{k_",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -3916,10 +4028,10 @@
                         "モラトリアム人間",
                         "young adult<br>refusing adulthood",
                         "moratorium + Japanese 人間 '<i>ningen'</i>&nbsp;(person)",
-                        "person who has not developed emotional maturity<br>(similar to <i>freeter</i>)",
-                        "社会人になることに対して不安を感じて子供のままでいたいと思っている大学生",
+                        "similar to&nbsp;<i>freeter,&nbsp;</i>person who has not developed emotional maturity<br>",
+                        "社会人になることに対して不安を感じて<br>子供のままでいたいと思っている大学生",
                         "<img alt=\"モラトリアムのイラスト（男性）\" src=\"moratorium_man.png\">",
-                        ""
+                        "moratoriamuningen"
                     ],
                     "guid": "H;e6mCMQGW",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -4044,6 +4156,23 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "ググる",
+                        "to google",
+                        "",
+                        "",
+                        "検索虫眼鏡",
+                        "<img alt=\"検索虫眼鏡のイラスト「Search」\" src=\"search_mushimegane.png\">",
+                        "guguru"
+                    ],
+                    "guid": "HP9~wtk0%H",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::colloquial"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "キャディー",
                         "caddie (golf)",
                         "",
@@ -4095,7 +4224,7 @@
                         "scum・loser",
                         "",
                         "",
-                        ""
+                        "kuzu"
                     ],
                     "guid": "H`z~YZ&<<t",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -4246,12 +4375,12 @@
                     "__type__": "Note",
                     "fields": [
                         "デパ地下",
-                        "department store basement level (where food is often sold)",
+                        "department store basement level",
                         "'de(partment store)' + Japanese 地下 'chika' (underground)",
-                        "",
-                        "",
-                        "",
-                        "depa地下"
+                        "where foodstuffs are usually sold",
+                        "お店が並んだ室内の通路",
+                        "<img alt=\"お店が並んだ室内の通路のイラスト\" src=\"shopping_mall_ekinaka.png\">",
+                        "depachika"
                     ],
                     "guid": "IRY)G`4c@;",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -4340,8 +4469,8 @@
                     "__type__": "Note",
                     "fields": [
                         "ピンポン",
-                        "table tennis",
-                        "'ping-pong'",
+                        "ping-pong (table tennis)",
+                        "",
                         "also used for the 'ding-dong' <br>sound of a doorbell",
                         "バスピン（バスケットピンポン）",
                         "<img alt=\"バスピンのイラスト\" src=\"sports_basupin.png\">",
@@ -4488,7 +4617,7 @@
                         "trademark name of Pentel's",
                         "黒いマジックペン",
                         "<img alt=\"マジックペンのイラスト（文房具）\" src=\"bunbougu_magic.png\">",
-                        ""
+                        "sainpen"
                     ],
                     "guid": "JJ(KoZYx##",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -4531,12 +4660,12 @@
                     "__type__": "Note",
                     "fields": [
                         "ファミコン",
-                        "Nintendo Entertainment System<br>(NES)",
+                        "Famicon",
                         "'Fami(ly) Com(puter)'",
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Nintendo Entertainment System (NES)",
+                        "ゲームに熱中している男の子",
+                        "<img alt=\"ゲームに熱中している男の子のイラスト\" src=\"videogame_boy.png\">",
+                        "famikon"
                     ],
                     "guid": "JR%6VX8J~^",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -4770,7 +4899,7 @@
                         "",
                         "",
                         "<img alt=\"text_syouene_seinou.png (800×341)\" src=\"text_syouene_seinou.png\">",
-                        "省ene"
+                        "shōene"
                     ],
                     "guid": "K3xd/<6YHX",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -4923,13 +5052,13 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "空オケ or カラオケ",
+                        "カラオケ",
                         "karaoke",
                         "Japanese 空 'kara' (empty) + 'orche(stra)'",
                         "",
                         "",
                         "<img alt=\"karaoke_saiten.png (800×726)\" src=\"karaoke_saiten.png\">",
-                        "空oke or karaoke"
+                        "karaoke"
                     ],
                     "guid": "K]`eRLosko",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -5011,7 +5140,7 @@
                         "",
                         "頭を抱えて悩んでいる人",
                         "<img alt=\"頭を抱えて悩んでいる人のイラスト（男性）\" src=\"pose_atama_kakaeru_man.png\">",
-                        ""
+                        "pinchi"
                     ],
                     "guid": "L$XdeCY8IU",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -5026,7 +5155,7 @@
                         "",
                         "髪にパーマをかけた男性",
                         "<img alt=\"パーマのイラスト（男性）\" src=\"perm_hair_man.png\">",
-                        ""
+                        "pāma"
                     ],
                     "guid": "L%?k-:;&k/",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -5165,16 +5294,18 @@
                     "__type__": "Note",
                     "fields": [
                         "ムーディ",
-                        "atmospheric, romantic",
-                        "'moody'",
-                        "extended katakana: ディ (di)",
+                        "moody",
+                        "",
+                        "extended katakana: ディ (di)<br>having a good atmosphere・romantic",
                         "",
                         "",
                         "mūdi"
                     ],
                     "guid": "L`o4_JK6,]",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-                    "tags": []
+                    "tags": [
+                        "Katakana-Practice::wasei"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -5258,8 +5389,8 @@
                         "merit",
                         "",
                         "",
-                        "",
-                        "",
+                        "ボールを比較している人",
+                        "<img alt=\"比較している人のイラスト（男性）\" src=\"hikaku_ball_man.png\">",
                         "meritto"
                     ],
                     "guid": "Lx98FM]5xQ",
@@ -5275,7 +5406,7 @@
                         "",
                         "パソコンを壊した人",
                         "<img alt=\"パソコンを壊した人のイラスト（女性）\" src=\"computer_kowasu_woman.png\">",
-                        ""
+                        "toraburu"
                     ],
                     "guid": "L}i6cq*Nua",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -5424,7 +5555,7 @@
                     "__type__": "Note",
                     "fields": [
                         "メス",
-                        "surgical knife",
+                        "scalpel",
                         "Dutch 'mes' (knife)",
                         "",
                         "手術（電気メス）",
@@ -5549,7 +5680,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ロープウェー",
-                        "cable car・ropeway",
+                        "ropeway・cable car",
                         "",
                         "extended katakana: ウェ (we)",
                         "",
@@ -5768,7 +5899,7 @@
                         "duo・pair",
                         "ものまね芸人",
                         "<img alt=\"ものまね芸人のイラスト\" src=\"monomane_geinin.png\">",
-                        ""
+                        "konbi"
                     ],
                     "guid": "N<r4pvreib",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -5971,8 +6102,8 @@
                         "frill",
                         "",
                         "",
-                        "",
-                        "",
+                        "ゴシックな服装をした女性",
+                        "<img alt=\"ゴシックな服装をした女性のイラスト\" src=\"fashion_gothic_and_lolita.png\">",
                         "furiru"
                     ],
                     "guid": "O(-Q-gK%Bi",
@@ -6275,7 +6406,7 @@
                         "homesickness",
                         "",
                         "",
-                        "故郷の家族を思い出して涙を流している、ホームシックになった男性",
+                        "故郷の家族を思い出して涙を流している、<br>ホームシックになった男性",
                         "<img alt=\"ホームシックのイラスト（男性）\" src=\"homesick_man.png\">",
                         "hōmushikku"
                     ],
@@ -6305,8 +6436,8 @@
                         "margarine",
                         "",
                         "",
-                        "",
-                        "",
+                        "四角いパックに入った、<br>トーストに塗るマーガリン",
+                        "<img alt=\"マーガリンのイラスト\" src=\"food_margarine.png\">",
                         "māgarin"
                     ],
                     "guid": "Ooo-3DKN9q",
@@ -6682,7 +6813,7 @@
                         "day for giving white chocolate and other <br>presents to female coworkers and friends<br>in return for gifts received on Valentine's day",
                         "ホワイトデー「彼女にプレゼント」",
                         "<img alt=\"ホワイトデーのイラスト「彼女にプレゼント」\" src=\"white_day_couple.png\">",
-                        ""
+                        "howaitodē"
                     ],
                     "guid": "Pl[LiKLZso",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -6729,7 +6860,7 @@
                         "",
                         "",
                         "",
-                        ""
+                        "abazure"
                     ],
                     "guid": "Po6=IiBLA_",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -6758,9 +6889,9 @@
                         "ビル",
                         "building",
                         "'buil(ding)'・also ’bill’",
-                        "esp. modern steel / concrete buildings<br>not to be confused with ビール (bīru “beer”).",
-                        "",
-                        "",
+                        "esp. modern steel / concrete buildings<br>not to be confused with ビール (bīru 'beer').",
+                        "会社のビル",
+                        "<img alt=\"会社のビルのイラスト\" src=\"building_kaisya.png\">",
                         "biru"
                     ],
                     "guid": "Psi}{QuWV]",
@@ -6775,7 +6906,7 @@
                         "パンツ",
                         "(under)pants",
                         "",
-                        "or trousers (esp. women's)&nbsp;",
+                        "or trousers esp. for women's",
                         "シンプルな黄緑色のズボン",
                         "",
                         "pantsu"
@@ -6883,8 +7014,8 @@
                         "bargain sale",
                         "",
                         "abbr. バーゲン or セール",
-                        "",
-                        "",
+                        "ショッピング「セールで買い物」",
+                        "<img alt=\"ショッピングのイラスト「セールで買い物」\" src=\"shopping_sale.png\">",
                         "bāgensēru"
                     ],
                     "guid": "Q2XAQ1;%,l",
@@ -7064,7 +7195,7 @@
                         "",
                         "車の交通事故",
                         "<img alt=\"車の交通事故のイラスト（女性）\" src=\"koutsu_jiko_car_woman.png\">",
-                        ""
+                        "kurasshu"
                     ],
                     "guid": "QI1U;tO`%7",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -7134,11 +7265,11 @@
                     "__type__": "Note",
                     "fields": [
                         "ユダヤ",
-                        "Judea, Jewish",
+                        "Judea・Jews",
+                        "Latin 'Iūdaea'",
                         "",
-                        "",
-                        "",
-                        "",
+                        "ユダヤ教超正統派の男性",
+                        "<img alt=\"ユダヤ教超正統派の男性のイラスト\" src=\"jewish_hasidism_man.png\">",
                         "yudaya"
                     ],
                     "guid": "QbWYn(g9hd",
@@ -7199,7 +7330,7 @@
                         "",
                         "",
                         "<img alt=\"oven_renji.png (728×683)\" src=\"oven_renji.png\">",
-                        "電子renji"
+                        "denshi renji"
                     ],
                     "guid": "Qo=;R0QAc~",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -7259,8 +7390,8 @@
                         "fair",
                         "",
                         "extended katakana: フェ (fe)",
-                        "",
-                        "",
+                        "自分の作った同人誌を机の上に並べて売っている男性",
+                        "<img alt=\"設営完了のイラスト（男性）\" src=\"book_doujin_setsuei_man.png\">",
                         "fea"
                     ],
                     "guid": "QxH:Xcz1|y",
@@ -7509,8 +7640,8 @@
                         "melody",
                         "",
                         "extended katakana: ディ (di)",
-                        "",
-                        "",
+                        "白黒の五線譜のメロディ",
+                        "<img alt=\"白黒の五線譜のメロディのイラスト\" src=\"onpu_monochrome_8931.png\">",
                         "merodī"
                     ],
                     "guid": "b>SuB`Gx-T",
@@ -7556,12 +7687,29 @@
                         "",
                         "秘密のポーズ",
                         "<img alt=\"秘密のポーズのイラスト\" src=\"naisyo_woman.png\">",
-                        ""
+                        "ecchi"
                     ],
                     "guid": "bMHN%6z<ha",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
                     "tags": [
                         "Katakana-Practice::abbr."
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ネカマ",
+                        "GIRL<br>(Guy In Real Life)",
+                        "ネ(ット) 'Internet' + (オ)カマ 'faggot'",
+                        "",
+                        "ネット上のなりすまし",
+                        "<img alt=\"ネット上のなりすましのイラスト（男性）\" src=\"sns_profile_sasyou_nekama_man.png\">",
+                        "nekama"
+                    ],
+                    "guid": "bRZ-4P,~j",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::colloquial"
                     ]
                 },
                 {
@@ -7634,7 +7782,7 @@
                         "ヴォーカリスト",
                         "vocalist&nbsp;",
                         "more commonly 'ボーカリスト'",
-                        "<br>extended katakana: ヴォ (vo)",
+                        "extended katakana: ヴォ (vo)",
                         "バンドミュージシャ",
                         "<img alt=\"バンドミュージシャンのイラスト\" src=\"school_man.png\">",
                         "vōkarisuto"
@@ -7728,7 +7876,7 @@
                         "'pocke(t) mon(ster)'",
                         "",
                         "",
-                        "",
+                        "<img alt=\"いらすとや×ポケモン ぴかぴかスタンプ - LINE スタンプ | LINE STORE\" src=\"main.png\">",
                         "pokemon"
                     ],
                     "guid": "bwD;u{_MJf",
@@ -7757,13 +7905,13 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ワイシャツ or Yシャツ",
-                        "dress shirt (of any color)",
+                        "ワイシャツ&nbsp;",
+                        "dress shirt",
                         "'white shirt'",
-                        "",
+                        "also 'Yシャツ'",
                         "",
                         "<img alt=\"waisyatsu.png (700×540)\" src=\"waisyatsu.png\">",
-                        "waishatsu or Y-shatsu"
+                        "waishatsu"
                     ],
                     "guid": "c3TUR=3>n8",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -7944,7 +8092,7 @@
                     "__type__": "Note",
                     "fields": [
                         "リスト",
-                        "list",
+                        "list・wrist",
                         "",
                         "",
                         "ToDoリストのテンプレート（白黒・動物アイコン）",
@@ -8081,7 +8229,7 @@
                     "__type__": "Note",
                     "fields": [
                         "レベルアップ",
-                        "'level up'--gain an experience level in a computer game",
+                        "leveling up・improvement",
                         "'level up'",
                         "",
                         "カラフルな箱の積み立て（積み上げ）をしている白い棒人間<br>",
@@ -8190,7 +8338,7 @@
                     "__type__": "Note",
                     "fields": [
                         "プロポーズ",
-                        "marriage proposal",
+                        "(marriage) proposal",
                         "",
                         "",
                         "プロポーズしようとしている人",
@@ -8385,7 +8533,7 @@
                         "",
                         "勢いをつけてボールを投げる女子野球の選手",
                         "<img alt=\"ピッチャーのイラスト（女性）\" src=\"baseball_pitcher_woman.png\">",
-                        "puro野球"
+                        "puroyakyū"
                     ],
                     "guid": "demXe2]}x1",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -8439,13 +8587,13 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "メッセージ or メセージ",
+                        "メッセージ",
                         "message",
                         "",
-                        "",
-                        "",
-                        "",
-                        "messēji or mesēji"
+                        "also メセージ",
+                        "メッセージアプリ",
+                        "<img alt=\"メッセージアプリのイラスト\" src=\"computer_message_app.png\">",
+                        "messēji"
                     ],
                     "guid": "dsS;Frb>|e",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -8675,11 +8823,11 @@
                     "__type__": "Note",
                     "fields": [
                         "ラムネ",
-                        "Ramune (a brand of soft drink)",
+                        "Ramune",
                         "'lemona(de)'",
-                        "",
-                        "",
-                        "",
+                        "a type of carbonated soft drink",
+                        "ラムネ（飲み物）",
+                        "<img alt=\"ラムネのイラスト（飲み物）\" src=\"sweets_ramune_drink.png\">",
                         "ramune"
                     ],
                     "guid": "eK7wR1=L(8",
@@ -8784,7 +8932,7 @@
                     "__type__": "Note",
                     "fields": [
                         "プロデューサー",
-                        "producer",
+                        "producer&nbsp;(film, TV, etc.)",
                         "",
                         "extended katakana: デュ (dyu)",
                         "ピンクのカーディガンを肩にかけたテレビ制作の統括をするプロデューサー",
@@ -9153,13 +9301,13 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "モビール or モバイル",
-                        "mobile, esp. mobile devices such as smartphones",
+                        "モビール",
+                        "mobile",
                         "",
                         "",
                         "",
                         "",
-                        "mobīru or mobairu"
+                        "mobīru"
                     ],
                     "guid": "fW@`@t&4jV",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -9459,11 +9607,28 @@
                         "",
                         "段ボールの上でボロボロの服を着ているホームレスの男性",
                         "<img alt=\"ホームレスのイラスト\" src=\"homeless_furousya.png\">",
-                        ""
+                        "hōmuresu"
                     ],
                     "guid": "g4BLS+A5F^",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ギリシャ",
+                        "Greece",
+                        "Portuguese: 'Grécia'",
+                        "",
+                        "ギリシャの国旗",
+                        "<img alt=\"国旗のイラスト（ギリシャ）\" src=\"illustkun-01137-greece-flag.png\">",
+                        "girisha"
+                    ],
+                    "guid": "gA{V@I?Mi/",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::place"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -9785,7 +9950,7 @@
                         "body check",
                         "",
                         "strip-searching・security check<br>extended katakana: ディ (di), チェ (che)",
-                        "空港やイベント会場などで危険物の持ち込みがないか金属探知機などで身体検査を行っている警備員",
+                        "空港やイベント会場などで危険物の持ち込みがないか<br>金属探知機などで身体検査を行っている警備員",
                         "<img alt=\"ボディチェックのイラスト（男性）\" src=\"security_body_check_man.png\">",
                         "bodichekku"
                     ],
@@ -9863,10 +10028,10 @@
                         "ニート",
                         "NEET",
                         "",
-                        "freeter; young adult who's:<br>Not in Education, Employment or Training",
+                        "freeter・young adult who's:<br>Not in Education, Employment or Training",
                         "親を怒鳴る無職",
                         "<img alt=\"親を怒鳴る無職のイラスト\" src=\"neet_erasou.png\">",
-                        ""
+                        "nīto"
                     ],
                     "guid": "h>3BY8+_@=",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -9898,8 +10063,8 @@
                         "gas cylinder",
                         "German 'Bombe' (bomb)",
                         "canister for storing pressurized gas",
-                        "",
-                        "",
+                        "家庭用ガスボンベ",
+                        "<img alt=\"家庭用ガスボンベのイラスト\" src=\"cooking_gas_bonbe.png\">",
                         "bonbe"
                     ],
                     "guid": "hA7Z#!hWD:",
@@ -9932,7 +10097,7 @@
                         "Enhydra lutris",
                         "ラッコのキャラクター",
                         "<img alt=\"ラッコのキャラクター\" src=\"character_animal_rakko.png\">",
-                        ""
+                        "rakko"
                     ],
                     "guid": "hL_I4:52rD",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -10115,11 +10280,11 @@
                     "__type__": "Note",
                     "fields": [
                         "プッシュホン",
-                        "touch-tone phone",
+                        "push-button telephone",
                         "'push phone'",
                         "",
-                        "",
-                        "",
+                        "オフィスなどで使われる、一般的な事務用の電話",
+                        "<img alt=\"電話のイラスト\" src=\"kaden_denwa.png\">",
                         "pusshuhon"
                     ],
                     "guid": "hsTw>gb}ju",
@@ -10132,9 +10297,9 @@
                     "__type__": "Note",
                     "fields": [
                         "プラスアルファ",
-                        "a little bit more,<br>icing on the cake,<br>something on top / extra",
-                        "+α 'plus alpha'<br>also written プラスα&nbsp;",
-                        "extended katakana: ファ (fa)&nbsp;",
+                        "… and more",
+                        "+α 'plus alpha'<br>also written プラスα<br>extended katakana: ファ (fa)&nbsp;&nbsp;",
+                        "a little bit more・icing on the cake・something on-top / extra<br>",
                         "",
                         "",
                         "purasuarufa"
@@ -10329,7 +10494,7 @@
                         "",
                         "虹色の旗",
                         "<img alt=\"虹色の旗のイラスト\" src=\"lgbt_rainbow_flag.png\">",
-                        ""
+                        "nyūhāfu"
                     ],
                     "guid": "i:UE+;)Wp7",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -10408,7 +10573,7 @@
                         "person who has a driving licence <br>but little or no experience actually driving",
                         "初心者マークをつけて運転する人<br><br>(The green/yellow leaf sticker;<br>symbol for paper or novice drivers)",
                         "<img alt=\"初心者マークをつけて運転する人のイラスト\" src=\"car_drive_mark_syoshinsya.png\">",
-                        ""
+                        "pēpādoraibā"
                     ],
                     "guid": "iIW)GucOsm",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -10436,7 +10601,7 @@
                     "fields": [
                         "ワクチン",
                         "vaccine",
-                        "",
+                        "German 'vakzin'",
                         "",
                         "",
                         "<img alt=\"sick_vaccine.png (800×745)\" src=\"sick_vaccine.png\">",
@@ -10453,8 +10618,8 @@
                         "hole in one",
                         "",
                         "",
-                        "",
-                        "",
+                        "接待ゴルフ",
+                        "<img alt=\"\" src=\"golf_settai.png\">",
                         "hōruinwan"
                     ],
                     "guid": "iR.D1(jwZ=",
@@ -10525,7 +10690,7 @@
                     "__type__": "Note",
                     "fields": [
                         "レーザーディスク",
-                        "laser disk",
+                        "LaserDisc",
                         "",
                         "extended katakana: ディ (di)",
                         "ディスクメディア",
@@ -10630,11 +10795,11 @@
                     "__type__": "Note",
                     "fields": [
                         "プロ",
-                        "professional (business or sports)",
+                        "pro・professional",
                         "",
                         "",
-                        "",
-                        "",
+                        "プロゲーマー",
+                        "<img alt=\"プロゲーマーのイラスト\" src=\"job_pro_gamer.png\">",
                         "puro"
                     ],
                     "guid": "ix}6hXe53n",
@@ -10729,8 +10894,8 @@
                         "half time",
                         "",
                         "",
-                        "",
-                        "",
+                        "VARポーズ",
+                        "<img alt=\"VARポーズのイラスト\" src=\"sports_referee_var_pose.png\">",
                         "hāfutaimu"
                     ],
                     "guid": "j5Ok57(z@Z",
@@ -10823,11 +10988,11 @@
                     "__type__": "Note",
                     "fields": [
                         "ポピュラー",
-                        "popular (music)",
+                        "popular",
                         "",
-                        "",
-                        "",
-                        "",
+                        "abbr. of popular music in general",
+                        "レビュアー",
+                        "<img alt=\"レビュアーのイラスト（男性5）\" src=\"review_man_star5.png\">",
                         "popyurā"
                     ],
                     "guid": "jW79WtuW},",
@@ -10999,7 +11164,7 @@
                         "extended katakana: ジェ (je)",
                         "飛行機のコックピット",
                         "<img alt=\"飛行機のコックピットのイラスト（空）\" src=\"airplane_cockpit_sky.jpg\">",
-                        "jetto機"
+                        "jetto ki"
                     ],
                     "guid": "k+P.M]FPh:",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -11231,8 +11396,8 @@
                         "terror",
                         "'terro(rism)'",
                         "",
-                        "",
-                        "",
+                        "闇の組織",
+                        "<img alt=\"闇の組織のイラスト\" src=\"money_yami_soshiki.png\">",
                         "tero"
                     ],
                     "guid": "k^xl7o&!v+",
@@ -11280,8 +11445,8 @@
                         "Velcro",
                         "'magic tape' (Japanese trade name for velcro)",
                         "",
-                        "",
-                        "",
+                        "無地のマスキングテープ",
+                        "<img alt=\"無地のマスキングテープのイラスト\" src=\"bunbougu_masking_tape_yellow.png\">",
                         "majikkutēpu"
                     ],
                     "guid": "kbk5}~m+]0",
@@ -11298,8 +11463,8 @@
                         "railway platform",
                         "'(plat)form'",
                         "",
-                        "",
-                        "",
+                        "駅のホーム",
+                        "<img alt=\"駅のホームのイラスト（背景素材）\" src=\"bg_eki_home.jpg\">",
                         "hōmu"
                     ],
                     "guid": "kjNTo{-mUL",
@@ -11318,7 +11483,7 @@
                         "advertising slogan・catchphrase",
                         "「広告チラシお断り！」のイラスト文字",
                         "<img alt=\"「広告チラシお断り！」のイラスト文字\" src=\"pop_okotowari_chirashi.png\">",
-                        ""
+                        "kyatchikopī"
                     ],
                     "guid": "kq4!mZxtg^",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -11417,7 +11582,7 @@
                         "",
                         "ざわざわ、といった擬音の文字です",
                         "<img alt=\"擬音のイラスト文字（ざわざわ）\" src=\"text_gion_zawazawa.png\">",
-                        ""
+                        "onomatope"
                     ],
                     "guid": "l>^>n$E__=",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -11479,7 +11644,7 @@
                         "notebook computer",
                         "プログラミングをする人",
                         "<img alt=\"プログラミングをする人のイラスト（男性）\" src=\"computer_programming_man.png\">",
-                        ""
+                        "nōtopasokon"
                     ],
                     "guid": "lKuH)yrbP{",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -11832,12 +11997,12 @@
                     "__type__": "Note",
                     "fields": [
                         "満タン",
-                        "full tank, full capacity",
+                        "full tank",
                         "Japanese 満 'man' (full) + 'tan(k)'",
                         "",
                         "ガソリン車",
                         "<img alt=\"ガソリン車のイラスト\" src=\"car_gasoline.png\">",
-                        "満tan"
+                        "mantan"
                     ],
                     "guid": "mG*~.u;[>f",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -11919,7 +12084,7 @@
                         "",
                         "英語のリーディング",
                         "<img alt=\"英語のリーディングのイラスト\" src=\"english_reading.png\">",
-                        "rōma字"
+                        "rōmaji"
                     ],
                     "guid": "mQXPQe,#Ed",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -11959,7 +12124,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ライト",
-                        "right・light",
+                        "light・right",
                         "",
                         "",
                         "シンプルな懐中電灯（ハンディライト）",
@@ -12054,8 +12219,8 @@
                         "privately owned car",
                         "'my car'",
                         "not necessarily the speaker's own",
-                        "",
-                        "",
+                        "車好き（女性）",
+                        "<img alt=\"車好きのイラスト（女性）\" src=\"car_lover_woman.png\">",
                         "maikā"
                     ],
                     "guid": "m`bDJ#12h}",
@@ -12117,7 +12282,7 @@
                         "ゴロゴロ",
                         "rumbling / rolling sound",
                         "katakana used for onomatopoeia",
-                        "rumbling of thunder, one's stomach, purring etc.",
+                        "rumbling of thunder・one's stomach・purring etc.",
                         "雷雲と、光る雷",
                         "<img alt=\"雷・雷雲のイラスト（自然災害）\" src=\"shizensaigai_kaminari.png\">",
                         "gorogoro"
@@ -12990,7 +13155,7 @@
                         "",
                         "ハイジャック（バスジャック）",
                         "<img alt=\"ハイジャックのイラスト\" src=\"travel_highjack.png\">",
-                        ""
+                        "basujakku"
                     ],
                     "guid": "p1zHwt4l80",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -13032,7 +13197,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ラム",
-                        "lamb (meat)・rum",
+                        "lamb・rum",
                         "",
                         "",
                         "羊の親子",
@@ -13092,7 +13257,7 @@
                     "__type__": "Note",
                     "fields": [
                         "アクセル",
-                        "accelerator (pedal)",
+                        "accelerator pedal",
                         "'accel(erator)'",
                         "",
                         "車のペダル",
@@ -13301,8 +13466,8 @@
                         "meat sauce",
                         "",
                         "",
-                        "",
-                        "",
+                        "ミートソースの缶",
+                        "<img alt=\"Illustration of a can of meat sauce\" src=\"canned_meat-sauce_14769.png\">",
                         "mītosōsu"
                     ],
                     "guid": "py|w~1$-8E",
@@ -13391,8 +13556,8 @@
                         "department store",
                         "",
                         "",
-                        "お店が並んだ室内の通路",
-                        "<img alt=\"お店が並んだ室内の通路のイラスト\" src=\"shopping_mall_ekinaka.png\">",
+                        "デパート・百貨店",
+                        "<img alt=\"デパート・百貨店のイラスト\" src=\"tatemono_department_store.png\">",
                         "depāto"
                     ],
                     "guid": "q7C{9-eN/N",
@@ -13445,6 +13610,23 @@
                     "guid": "qC.TQ{>ftT",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "モテる",
+                        "to be popular",
+                        "Japanese 持てる 'to be able to possess'",
+                        "to be well-liked esp. with the opposite sex<br>not 'motel' (モテル)",
+                        "モテモテの女性が沢山の男性達に<br>囲まれてハーレム状態になっている",
+                        "<img alt=\"モテる人のイラスト（女性）\" src=\"harem_woman.png\">",
+                        "moteru"
+                    ],
+                    "guid": "qEGWbzk-_#",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::colloquial"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -13530,8 +13712,8 @@
                         "one-size-fits-all",
                         "'free size'",
                         "",
-                        "",
-                        "",
+                        "大きなサイズの服を着た人（女性）",
+                        "<img alt=\"大きなサイズの服を着た人のイラスト（女性）\" src=\"fashion_oversize_tshirt_woman.png\">",
                         "furīsaizu"
                     ],
                     "guid": "qV*L:rY7ik",
@@ -13544,7 +13726,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ベビーカー",
-                        "stroller (US),<br>pushchair or pram (UK)",
+                        "stroller (US)<br>pushchair or pram (UK)",
                         "'baby car'",
                         "",
                         "ベビーカーを押すお父さんの表情",
@@ -13706,7 +13888,7 @@
                         "ユネスコ",
                         "UNESCO",
                         "",
-                        "",
+                        "United Nations Educational, <br>Scientific and Cultural Organization",
                         "国連加盟国が集まって議会を行っている",
                         "<img alt=\"国際連合総会のイラスト\" src=\"un_kokusai_kaigi.png\">",
                         "yunesuko"
@@ -13952,7 +14134,7 @@
                         "usually served cold in Japan",
                         "お茶",
                         "<img alt=\"tea4.png (687×687)\" src=\"tea4.png\">",
-                        "ūron茶"
+                        "ūroncha"
                     ],
                     "guid": "rNpwGHx_+$",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -14072,7 +14254,7 @@
                         "revenge<br>",
                         "",
                         "a do over・to avenge<br>attempt again (after failure)",
-                        "悔しそうに泣きながら歯を食いしばる男性が地面を叩いている",
+                        "悔しそうに泣きながら歯を<br>食いしばる男性が地面を叩いている",
                         "<img alt=\"悔しい人のイラスト（男性）\" src=\"pose_kuyashii_man.png\">",
                         "ribenji"
                     ],
@@ -14106,7 +14288,7 @@
                         "extended katakana: イェ(ye)",
                         "ガウンを着た卒業生",
                         "<img src=\"sotsugyou_graduation_gown_asia_woman.png\">",
-                        "yēru大学"
+                        "yērudaigaku"
                     ],
                     "guid": "rij8emqKSK",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -14126,6 +14308,23 @@
                     "guid": "riy;@8!BRu",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ベルギー",
+                        "Belgium",
+                        "",
+                        "",
+                        "ベルギーの国旗",
+                        "<img alt=\"国旗のイラスト（ベルギー）\" src=\"illustkun-01059-belgium-flag.png\">",
+                        "berugī"
+                    ],
+                    "guid": "rls^7cf3eL",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::place"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -14198,7 +14397,7 @@
                         "",
                         "やる気のある会社員",
                         "<img alt=\"やる気のある会社員のイラスト（男性）\" src=\"yaruki_aru_suit_man.png\">",
-                        ""
+                        "tenshon"
                     ],
                     "guid": "s1VWK{G=SI",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -14608,7 +14807,7 @@
                         "Rangifer tarandus",
                         "立派な角の生えたトナカイ",
                         "<img alt=\"トナカイのイラスト\" src=\"animal_moose.png\">",
-                        ""
+                        "tonakai"
                     ],
                     "guid": "t>8@VUOA)&",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -14996,11 +15195,11 @@
                     "fields": [
                         "ポテチ",
                         "potato chips",
-                        "'potato + chips'",
+                        "'pota(to) + chi(ps)'",
                         "",
                         "お菓子の袋を勢いよく開けた人",
                         "<img alt=\"お菓子の袋を勢いよく開けた人のイラスト\" src=\"sweets_potatochips_bakuhatsu.png\">",
-                        ""
+                        "potechi"
                     ],
                     "guid": "u)l>Xqf/Bj",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -15130,7 +15329,7 @@
                         "climbing irons・metal pins of climbing shoes<br>(attachment to a shoe used for climbing or walking on ice)",
                         "登山靴・トレッキングシューズ",
                         "<img alt=\"登山靴・トレッキングシューズのイラスト\" src=\"tozan_kutsu.png\">",
-                        ""
+                        "aizen"
                     ],
                     "guid": "uH|$F]/,2r",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -15224,7 +15423,7 @@
                         "trad. celebratory cheer;<br>shouted while raising both arms in the air",
                         "バンザイをしている学生たち",
                         "<img alt=\"バンザイをしている学生たちのイラスト\" src=\"banzai_school.png\">",
-                        ""
+                        "banzai"
                     ],
                     "guid": "u[aWgd3Rwr",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -15308,13 +15507,13 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "フリーダイアル or フリーダイヤル",
-                        "toll free call",
+                        "フリーダイヤル",
+                        "toll free number",
                         "'free dial'",
-                        "",
-                        "",
-                        "",
-                        "furīdaiaru or furīdaiyaru"
+                        "also 'フリーダイアル'",
+                        "携帯電話で話す人",
+                        "<img alt=\"携帯電話で話す人のイラスト（男性）\" src=\"smartphone_talk03_man.png\">",
+                        "furīdaiyaru"
                     ],
                     "guid": "v3-w^(3t|H",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -15361,7 +15560,7 @@
                         "",
                         "お父さんと楽しそうにキャッチボールをしている男の子",
                         "<img alt=\"キャッチボールのイラスト「お父さんと息子」\" src=\"catchball_father.png\">",
-                        ""
+                        "kyatchibōru"
                     ],
                     "guid": "vLMCUEa=rl",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -15594,8 +15793,8 @@
                         "boxer shorts",
                         "'trunks'",
                         "",
-                        "",
-                        "",
+                        "男性用のトランクスとブリーフ（パンツ）",
+                        "<img alt=\"男性用下着のイラスト\" src=\"fashion_shitagi_man.png\">",
                         "torankusu"
                     ],
                     "guid": "w(qgm/[|da",
@@ -15606,7 +15805,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ワンワン",
-                        "the sound of a dog barking",
+                        "bow-wow",
                         "",
                         "katakana used for onomatopoeia",
                         "吠えている犬",
@@ -15668,12 +15867,12 @@
                     "__type__": "Note",
                     "fields": [
                         "食パン",
-                        "pan loaf",
+                        "loaf of bread",
                         "Japanese&nbsp;食 'shoku' (food) + Portugese 'pan' (bread)",
                         "",
                         "",
                         "<img alt=\"bread_syokupan_6maigiri.png (637×552)\" src=\"bread_syokupan_6maigiri.png\">",
-                        "食pan"
+                        "shokupan"
                     ],
                     "guid": "w9Tz?%&7x4",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -15819,6 +16018,23 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "キプロス",
+                        "Cyprus",
+                        "Greek 'Kýpros'",
+                        "",
+                        "キプロスの国旗",
+                        "<img alt=\"国旗のイラスト（キプロス共和国）\" src=\"illustkun-05090-cypriot-flag.png\">",
+                        "kipurosu"
+                    ],
+                    "guid": "wjW&7-$(@_",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::place"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "ワンポールテント",
                         "one-pole tent",
                         "",
@@ -15944,7 +16160,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ファンファーレ",
-                        "musical fanfare",
+                        "(musical) fanfare",
                         "",
                         "extended katakana: ファ (fa)",
                         "",
@@ -16025,7 +16241,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ピント",
-                        "focus",
+                        "focus・focal point",
                         "Dutch 'brandpunt'",
                         "",
                         "ピンボケ写真の",
@@ -16164,12 +16380,12 @@
                     "__type__": "Note",
                     "fields": [
                         "ワンパターン",
-                        "repetitive・one-track",
-                        "'one pattern'",
-                        "being in a rut<br>conforming to a single pattern",
+                        "one pattern",
+                        "",
+                        "repetitive・one-track・being in a rut<br>conforming to a single pattern",
                         "うろこのパターン",
                         "<img alt=\"うろこのパターン\" src=\"pattern_uroko.jpg\">",
-                        ""
+                        "wanpatān"
                     ],
                     "guid": "x].-~*]twS",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -16319,13 +16535,28 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "軽トラ or ケイトラ",
-                        "light commercial truck",
-                        "Japanese 軽 'kei' (light-duty) + 'tru(ck)'",
+                        "バレる",
+                        "to be found out",
+                        "",
+                        "",
+                        "何か隠し事をしていて、<br>後ろめたい表情をしている男性",
+                        "<img alt=\"隠し事をしている人のイラスト（男性）\" src=\"pose_kakushigoto_man.png\">",
+                        "bareru"
+                    ],
+                    "guid": "y#pxBhRS6>",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ケイトラ",
+                        "mini truck",
+                        "Japanese 軽 'kei' (light) + 'tru(ck)'",
                         "",
                         "",
                         "<img alt=\"car_kei_truck.png (782×686)\" src=\"car_kei_truck.png\">",
-                        "軽tora or keitora"
+                        "keitora"
                     ],
                     "guid": "y%ck!Gs.W>",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -16401,7 +16632,7 @@
                     "fields": [
                         "ファンタジック",
                         "fantastic (like a fantasy)",
-                        "fantasy + ic = 'fantastic'",
+                        "fantasy + ic = fantastic",
                         "extended katakana: ファ (fa)",
                         "可愛い魔女・魔法使い",
                         "<img alt=\"可愛い魔女のイラスト\" src=\"majo_girl_majokko.png\">",
@@ -16514,7 +16745,7 @@
                         "",
                         "笑顔のお茶の間",
                         "<img alt=\"笑顔のお茶の間のイラスト\" src=\"ochanoma_smile.png\">",
-                        ""
+                        "gōrudentaimu"
                     ],
                     "guid": "y[^%ji.E)f",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -16624,8 +16855,8 @@
                         "blouse",
                         "",
                         "",
-                        "",
-                        "",
+                        "長袖のブラウスの合服（制服・学生服)",
+                        "<img alt=\"合服を着た女子学生のイラスト（カーディガン）\" src=\"seifuku_aifuku_woman_cardigan.png\">",
                         "burausu"
                     ],
                     "guid": "ypJR#53K::",
@@ -16685,11 +16916,11 @@
                     "__type__": "Note",
                     "fields": [
                         "プレイガイド",
-                        "(theater) ticket agency",
+                        "primary ticket outlet",
                         "'play + guide'",
                         "",
-                        "",
-                        "",
+                        "券売機",
+                        "<img alt=\"券売機のイラスト\" src=\"ticket_kenbaiki.png\">",
                         "pureigaido"
                     ],
                     "guid": "ys`4q~l+NF",
@@ -16732,9 +16963,9 @@
                     "__type__": "Note",
                     "fields": [
                         "ロードショー",
-                        "a premiere",
-                        "'roadshow'",
-                        "the first showing of<br>a movie to a general audience",
+                        "roadshow",
+                        "",
+                        "premiere・the first showing of<br>a movie to a general audience",
                         "映画館の建物",
                         "<img alt=\"映画館の建物のイラスト\" src=\"building_cinema.png\">",
                         "rōdoshō"
@@ -16770,7 +17001,7 @@
                         "",
                         "鉛筆1ダース",
                         "<img alt=\"鉛筆1ダースのイラスト\" src=\"bunbougu_pencil_dozen.png\">",
-                        ""
+                        "dāsu"
                     ],
                     "guid": "z&@cEi=cZ8",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -17044,7 +17275,7 @@
                         "(girls') gym shorts",
                         "体操着を着た女の子",
                         "<img alt=\"体操着を着た女の子のイラスト（赤組）\" src=\"taiiku_red_girl.png\">",
-                        ""
+                        "buruma"
                     ],
                     "guid": "zX{?;Qmi*@",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -17054,11 +17285,11 @@
                     "__type__": "Note",
                     "fields": [
                         "ペーパーカンパニー",
-                        "bogus company,<br>dummy corporation",
+                        "bogus・dummy・ghost<br>company / corporation",
                         "'paper company'",
-                        "",
-                        "",
-                        "",
+                        "a business entity with no actual operations, <br>often established for purposes such as tax avoidance.",
+                        "幽霊会社・ダミー会社",
+                        "<img alt=\"ペーパーカンパニーのイラスト\" src=\"business_paper_company.png\">",
                         "pēpākanpanī"
                     ],
                     "guid": "zY7AhzN>=F",
@@ -17164,8 +17395,8 @@
                         "musical (play)",
                         "",
                         "",
-                        "",
-                        "",
+                        "ミュージカルのダンサー（女性）",
+                        "<img alt=\"ミュージカルのダンサーのイラスト（女性）\" src=\"musical_dancer_woman.png\">",
                         "myūjikaru"
                     ],
                     "guid": "zj#:V$QVgh",
@@ -17194,8 +17425,8 @@
                         "folk song",
                         "",
                         "extended katakana: フォ (fo)",
-                        "",
-                        "",
+                        "音楽鑑賞",
+                        "<img alt=\"音楽鑑賞のイラスト\" src=\"music_ongaku_kansyou.png\">",
                         "fōkusongu"
                     ],
                     "guid": "zs)D1Q|Xs?",
@@ -17224,7 +17455,7 @@
                         "visa",
                         "",
                         "",
-                        "旅行や留学などで外国に入国・滞在をするときに必要な、パスポートに貼られるビザ（査証）のイラストです。",
+                        "旅行や留学などで外国に入国・<br>滞在をするときに必要な、<br>パスポートに貼られるビザ（査証）",
                         "<img alt=\"ビザのイラスト\" src=\"travel_passport_visa.png\">",
                         "biza"
                     ],
@@ -17239,8 +17470,8 @@
                         "member",
                         "",
                         "",
-                        "",
-                        "",
+                        "円陣を組む棒人間",
+                        "<img alt=\"円陣を組む棒人間のイラスト\" src=\"enjin_figure.png\">",
                         "menbā"
                     ],
                     "guid": "}Bt1-Y%7<",
@@ -17255,7 +17486,7 @@
             "__type__": "Deck",
             "children": [],
             "crowdanki_uuid": "c010788c-cc8d-11f1-9320-c91b46ae5b85",
-            "deck_config_uuid": "cb02782c-ce2b-11f1-a8cf-5fd3f0b6922e",
+            "deck_config_uuid": "5257b964-bebd-11f1-85b2-c3ea8e431646",
             "desc": "",
             "desiredRetention": null,
             "dyn": 0,
@@ -17310,6 +17541,7 @@
                 "benkyoukai_kunrenkou.png",
                 "bessou_log_house.png",
                 "bg_baseball_ground_night.jpg",
+                "bg_eki_home.jpg",
                 "bg_nangoku.jpg",
                 "bg_ryokan_hiroen.jpg",
                 "bg_snow_jutaku_yoru.jpg",
@@ -17326,6 +17558,7 @@
                 "book_bibliobattle_community.png",
                 "book_catalog.png",
                 "book_cover_kawa.png",
+                "book_doujin_setsuei_man.png",
                 "book_hirameki_keihatsu_man.png",
                 "book_meigensyu.png",
                 "boueki_tairitsu_nouka.png",
@@ -17336,6 +17569,7 @@
                 "bug_bouchuzai.png",
                 "building_apart2.png",
                 "building_cinema.png",
+                "building_kaisya.png",
                 "building_kyuuryuujousai.png",
                 "building_recycle_shop.png",
                 "building_talent_jimusyo.png",
@@ -17346,6 +17580,7 @@
                 "bunbougu_loseleaf.png",
                 "bunbougu_magic.png",
                 "bunbougu_marker.png",
+                "bunbougu_masking_tape_yellow.png",
                 "bunbougu_measure.png",
                 "bunbougu_pench.png",
                 "bunbougu_pencil_dozen.png",
@@ -17355,6 +17590,7 @@
                 "bus_2step_open.png",
                 "bus_guide.png",
                 "bus_stand.png",
+                "business_paper_company.png",
                 "business_sabori.png",
                 "business_sabori_pc_solitaire.png",
                 "butai_stage_big-2bad34ce13b676ad1fbb4c648f279c0473fba818.png",
@@ -17368,6 +17604,7 @@
                 "camera_satsuei_sankyaku_man.png",
                 "camp_hangou_suisan.png",
                 "camp_tent_sankaku.png",
+                "canned_meat-sauce_14769.png",
                 "canoe_couple_canadian.png",
                 "car_back3_left.png",
                 "car_back_alright.png",
@@ -17379,6 +17616,7 @@
                 "car_handle_cover.png",
                 "car_inkey.png",
                 "car_kei_truck.png",
+                "car_lover_woman.png",
                 "car_minivan.png",
                 "car_patocar_america.png",
                 "car_pedal_foot.png",
@@ -17424,6 +17662,7 @@
                 "computer_internet_sns.png",
                 "computer_kowasu_woman.png",
                 "computer_manual_man.png",
+                "computer_message_app.png",
                 "computer_mob_programming.png",
                 "computer_monitor.png",
                 "computer_net_stalker_man.png",
@@ -17438,6 +17677,7 @@
                 "cooking_chef.png",
                 "cooking_dendou_mixer.png",
                 "cooking_dry_yeast.png",
+                "cooking_gas_bonbe.png",
                 "cooking_hakari.png",
                 "cooking_houchou_petit_knife.png",
                 "cooking_ketchup_bin.png",
@@ -17507,6 +17747,7 @@
                 "eiga_set.png",
                 "engine_hatsudenki_small.png",
                 "english_reading.png",
+                "enjin_figure.png",
                 "ensoku_picnic_people.png",
                 "envelope_airmail.png",
                 "escalator_stand_center.png",
@@ -17521,6 +17762,8 @@
                 "fashion_belt_kawa.png",
                 "fashion_button3_black.png",
                 "fashion_dekora.png",
+                "fashion_glasses_megane.png",
+                "fashion_gothic_and_lolita.png",
                 "fashion_handkerchief_blue.png",
                 "fashion_high_heel.png",
                 "fashion_jeans.png",
@@ -17529,11 +17772,13 @@
                 "fashion_nerusyatsu.png",
                 "fashion_osyare_middle_man.png",
                 "fashion_oversize_tshirt_man.png",
+                "fashion_oversize_tshirt_woman.png",
                 "fashion_pansuto_stocking_densen.png",
                 "fashion_pants3_brown.png",
                 "fashion_raincoat_amagappa.png",
                 "fashion_ribbon5_pink.png",
                 "fashion_scarf.png",
+                "fashion_shitagi_man.png",
                 "fashion_show_woman.png",
                 "fashion_skirt_skircho.png",
                 "fashion_snood.png",
@@ -17568,6 +17813,7 @@
                 "food_jingisukan_genghis_khan.png",
                 "food_konsome_soup.png",
                 "food_korabo_cafe.png",
+                "food_margarine.png",
                 "food_menu.png",
                 "food_namahamu.png",
                 "food_omurice.png",
@@ -17607,6 +17853,7 @@
                 "glass_shoes.png",
                 "goal_figure.png",
                 "golf_butsukeru.png",
+                "golf_settai.png",
                 "gomi_furuzasshi.png",
                 "gomi_plastic.png",
                 "gomi_poribaketsu_close.png",
@@ -17614,6 +17861,7 @@
                 "gomihiroi_boy.png",
                 "goods_touyu_tank.png",
                 "graph10_oresen1.png",
+                "gym_running_man.png",
                 "gym_running_people.png",
                 "gym_training2.png",
                 "hacker_cracker1_smile.png",
@@ -17629,6 +17877,7 @@
                 "hammock_jiritsu_man.png",
                 "hammock_yashinoki_woman.png",
                 "hanataba.png",
+                "harem_woman.png",
                 "hat_hunting_cap.png",
                 "hawaii_food_applebanana_banapple.png",
                 "hawaii_izumotaisya.png",
@@ -17637,6 +17886,7 @@
                 "helicopter_keisatsu_heli.png",
                 "hero_man.png",
                 "high_touch.png",
+                "hikaku_ball_man.png",
                 "hikouki_kyoufusyou.png",
                 "hinanjo_seikatsu_family_sad.png",
                 "hirameki_man.png",
@@ -17662,6 +17912,7 @@
                 "illustkun-01051-germany-flag.png",
                 "illustkun-01053-tricolore.png",
                 "illustkun-01055-tricolore-italiano.png",
+                "illustkun-01059-belgium-flag.png",
                 "illustkun-01073-union-flag.png",
                 "illustkun-01075-australia-flag.png",
                 "illustkun-01077-newzealand-flag.png",
@@ -17669,6 +17920,7 @@
                 "illustkun-01087-thailand-flag.png",
                 "illustkun-01089-netherlands-flag.png",
                 "illustkun-01131-norway-flag.png",
+                "illustkun-01137-greece-flag.png",
                 "illustkun-01139-spanish-flag.png",
                 "illustkun-01145-vietnam-flag.png",
                 "illustkun-01147-indonesia-flag.png",
@@ -17679,10 +17931,13 @@
                 "illustkun-01553-ireland-flag.png",
                 "illustkun-01787-philippines-flag.png",
                 "illustkun-01791-malaysia-flag.png",
+                "illustkun-01862-turkey-flag.png",
                 "illustkun-01998-bosnia-herzegowina-flag.png",
                 "illustkun-03157-hong-kong-flag.png",
                 "illustkun-04096-iraq-flag.png",
                 "illustkun-04098-iran-flag.png",
+                "illustkun-05090-cypriot-flag.png",
+                "illustkun-05136-jordan-flag.png",
                 "illustkun-05138-laos-flag.png",
                 "image_training_man.png",
                 "images-e48f108b33813d3d2852c615e27554e51e24bae2.jpg",
@@ -17695,6 +17950,7 @@
                 "internet_modem_router.png",
                 "interview_man.png",
                 "iron_jiko_kaji.png",
+                "jewish_hasidism_man.png",
                 "jigenbakudan.png",
                 "jiko_car_kosyou.png",
                 "jiko_fumu_gum.png",
@@ -17713,6 +17969,7 @@
                 "job_interior_coordinator_man.png",
                 "job_maid_meido_kissa.png",
                 "job_mystery_shopper_man.png",
+                "job_pro_gamer.png",
                 "job_racer_man.png",
                 "job_sakankou2.png",
                 "job_seiyuu.png",
@@ -17725,6 +17982,7 @@
                 "joshikai_nomikai.png",
                 "juice_straw.png",
                 "kabegami_haru.png",
+                "kaden_denwa.png",
                 "kaden_kaichu_dentou.png",
                 "kaden_rimokon_ippai.png",
                 "kaden_stove.png",
@@ -17796,6 +18054,7 @@
                 "machine_photo_self_print.png",
                 "magari_michi.png",
                 "mahoubin_pot.png",
+                "main.png",
                 "majo_cat_houki.png",
                 "majo_girl_majokko.png",
                 "makeup_mascara.png",
@@ -17840,6 +18099,7 @@
                 "money_saifu_receipt_card.png",
                 "money_stema_stealth_marketing.png",
                 "money_tsuchou_cashcard.png",
+                "money_yami_soshiki.png",
                 "monomane_geinin.png",
                 "moratorium_man.png",
                 "motemote_ikemen.png",
@@ -17865,6 +18125,7 @@
                 "music_hikigatari_stand_woman.png",
                 "music_metronome.png",
                 "music_microphone_wireless.png",
+                "music_ongaku_kansyou.png",
                 "music_orchestra.png",
                 "music_piano.png",
                 "music_portable_amp_microphone.png",
@@ -17872,6 +18133,7 @@
                 "music_shikisya_woman.png",
                 "music_tuba.png",
                 "music_ukulele.png",
+                "musical_dancer_woman.png",
                 "musician_shikisya.png",
                 "musician_violin.png",
                 "musician_violin_usagi.png",
@@ -17917,6 +18179,7 @@
                 "onepiece01_luffy.png",
                 "onepiece01_luffy2.png",
                 "onigiri_ikura.png",
+                "onpu_monochrome_8931.png",
                 "oowarai_man.png",
                 "opera_singer_man.png",
                 "operator4_laugh.png",
@@ -17965,6 +18228,7 @@
                 "pose_genki05_ojisan.png",
                 "pose_gutspose_family_set.png",
                 "pose_heart_hand_woman.png",
+                "pose_kakushigoto_man.png",
                 "pose_kuyashii_man.png",
                 "pose_mail_matsu_woman.png",
                 "pose_mark_hashiru_guruguru.png",
@@ -17991,6 +18255,7 @@
                 "reji_cashier_supermarket.png",
                 "rental_cycle_bicycle.png",
                 "restaurant_rich_couple.png",
+                "review_man_star5.png",
                 "ribbon1-3.png",
                 "rikujou_track_side.png",
                 "ring_couple.png",
@@ -18015,9 +18280,11 @@
                 "school_test_seifuku_girl.png",
                 "science_dropper_supoito.png",
                 "science_shiyakubin1_small.png",
+                "search_mushimegane.png",
                 "security_body_check_man.png",
                 "sedai_bubble.png",
                 "seibu_cowboy_man.png",
+                "seifuku_aifuku_woman_cardigan.png",
                 "seifuku_blazer_man.png",
                 "seifuku_sailor.png",
                 "sekiyu_oil_money.png",
@@ -18040,6 +18307,7 @@
                 "shopping_hair_shampoo_rinse_machigae.png",
                 "shopping_mall_ekinaka.png",
                 "shopping_reji.png",
+                "shopping_sale.png",
                 "shopping_semi_self_reji_simple.png",
                 "shortcut_keys_ctrl_c.png",
                 "shovel_scoop_ken.png",
@@ -18059,6 +18327,8 @@
                 "smartphone_gorogoro_man_neet.png",
                 "smartphone_hogo_film.png",
                 "smartphone_photo_man_yoko.png",
+                "smartphone_talk03_man.png",
+                "sns_profile_sasyou_nekama_man.png",
                 "soccer_corner_man.png",
                 "sotsugyou_graduation_gown_asia_woman.png",
                 "sotsugyou_idol_girl.png",
@@ -18075,6 +18345,7 @@
                 "sports_marathon_man.png",
                 "sports_pose_time_woman.png",
                 "sports_pro_wrestler_mask.png",
+                "sports_referee_var_pose.png",
                 "sports_soccer_pass_man.png",
                 "sports_suibun_hokyuu_woman.png",
                 "sports_tennis_court.png",
@@ -18143,6 +18414,7 @@
                 "tape_serotape.png",
                 "tapioca_drink.png",
                 "tatemono_cafe.png",
+                "tatemono_department_store.png",
                 "tatemono_retal_car.png",
                 "taxi_jousya_woman.png",
                 "tea4.png",
@@ -18152,6 +18424,7 @@
                 "text_noclaim_noreturn.png",
                 "text_syouene_seinou.png",
                 "textbook_5kyouka_syougaku.png",
+                "ticket_kenbaiki.png",
                 "ticket_koukuuken.png",
                 "tissue_paper_box_open.png",
                 "tochi_urichi.png",
@@ -18238,17 +18511,17 @@
                 "yusyou_cup_gold.png"
             ],
             "name": "Typing",
-            "newLimit": 10,
+            "newLimit": 0,
             "newLimitToday": {
                 "limit": 0,
-                "today": 286
+                "today": 312
             },
             "notes": [
                 {
                     "__type__": "Note",
                     "fields": [
                         "ピーマン",
-                        "green pepper",
+                        "bell pepper (green)",
                         "French 'piment'",
                         "",
                         "",
@@ -18312,9 +18585,9 @@
                     "__type__": "Note",
                     "fields": [
                         "ブックカバー",
-                        "dust jacket",
-                        "'book cover'",
+                        "book cover",
                         "",
+                        "dust / book jacket",
                         "革のブックカバー",
                         "<img alt=\"革のブックカバーのイラスト\" src=\"book_cover_kawa.png\">",
                         "bukkukabā"
@@ -18355,7 +18628,9 @@
                     ],
                     "guid": "86lC{~$dW",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-                    "tags": []
+                    "tags": [
+                        "leech"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -18431,7 +18706,7 @@
                         "",
                         "さくらんぼ・チェリー",
                         "<img alt=\"さくらんぼ・チェリーのイラスト（フルーツ）\" src=\"fruit_cherry.png\">",
-                        ""
+                        "cherībōi"
                     ],
                     "guid": "AA3r?~{-J9",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -18445,7 +18720,7 @@
                         "ウイルス",
                         "virus",
                         "",
-                        "(biological, computer)",
+                        "biological・computer",
                         "コロナウイルス",
                         "<img alt=\"コロナウイルスのイラスト\" src=\"virus_corona.png\">",
                         "uirusu"
@@ -18481,6 +18756,21 @@
                         "imēji"
                     ],
                     "guid": "AD6+vTLXl^",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "トルコ",
+                        "Turkey",
+                        "Portuguese 'Turco'",
+                        "",
+                        "トルコ",
+                        "<img alt=\"国旗のイラスト（トルコ）\" src=\"illustkun-01862-turkey-flag.png\">",
+                        "toruko"
+                    ],
+                    "guid": "AE?cH&6jR$",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
                     "tags": []
                 },
@@ -18751,6 +19041,23 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "パイプカット",
+                        "vasectomy",
+                        "'pipe cut'",
+                        "",
+                        "",
+                        "",
+                        "paipukatto"
+                    ],
+                    "guid": "Ay8=X)|qiv",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::wasei"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "ユニーク",
                         "unique",
                         "",
@@ -19013,17 +19320,19 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "モノクローム or モノクロ",
+                        "モノクロ",
                         "monochrome",
-                        "",
+                        "abbr. of モノクローム",
                         "",
                         "鯨幕",
                         "<img alt=\"鯨幕のイラスト\" src=\"maku_kujira.png\">",
-                        "monokurōmu or monokuro"
+                        "monokuro"
                     ],
                     "guid": "Bq6w~~po@$",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-                    "tags": []
+                    "tags": [
+                        "Katakana-Practice::abbr."
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -19185,7 +19494,7 @@
                     "__type__": "Note",
                     "fields": [
                         "リンク",
-                        "link, rink",
+                        "link・rink",
                         "",
                         "",
                         "鎖のマーク",
@@ -19656,8 +19965,8 @@
                         "frame",
                         "",
                         "such as for eyeglass",
-                        "",
-                        "",
+                        "シンプルな黒縁メガネ",
+                        "<img alt=\"眼鏡のイラスト\" src=\"fashion_glasses_megane.png\">",
                         "furēmu"
                     ],
                     "guid": "DW1:bSZ8~e",
@@ -19701,7 +20010,7 @@
                     "fields": [
                         "レントゲン",
                         "X-ray",
-                        "Wilhelm Conrad Röntgen,<br>the man who discovered X-rays",
+                        "Röntgen, Wilhelm Conrad;&nbsp;<br>the man who discovered X-rays",
                         "",
                         "",
                         "<img alt=\"doctor_xray_rentogen.png (787×800)\" src=\"doctor_xray_rentogen.png\">",
@@ -19824,9 +20133,9 @@
                     "__type__": "Note",
                     "fields": [
                         "ボリューム",
-                        "volume (sound, amount)",
+                        "volume&nbsp;",
                         "",
-                        "",
+                        "sound・amount",
                         "",
                         "",
                         "boryūmu"
@@ -20094,7 +20403,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ヘルスメーター",
-                        "bathroom scales",
+                        "bathroom scale",
                         "'health meter'",
                         "",
                         "太ったの男性が体重を測ってしかめっ面をしている",
@@ -20271,7 +20580,7 @@
                         "ホルモン",
                         "hormone・offal",
                         "",
-                        "(biology, medicine) hormone<br>(food) offal; pig or cow entrails&nbsp;",
+                        "(biology, medicine) hormone<br>(food) offal; pig / cow entrails&nbsp;",
                         "<div>ギアラ（牛肉ホルモン）</div>",
                         "<img alt=\"ギアラのイラスト（牛肉ホルモン）\" src=\"ushi_giara.png\">",
                         "horumon"
@@ -20478,7 +20787,7 @@
                         "",
                         "SNSが表示されたコンピューター",
                         "<img alt=\"SNSが表示されたコンピューターのイラスト\" src=\"computer_internet_sns.png\">",
-                        ""
+                        "handorunēmu"
                     ],
                     "guid": "FZMR&&.ra%",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -20495,7 +20804,7 @@
                         "",
                         "ハロウィンのカボチャ",
                         "<img alt=\"ハロウィンのカボチャのイラスト5\" src=\"halloween_pumpkin5.png\">",
-                        ""
+                        "kabocha"
                     ],
                     "guid": "F^JVfeK*[m",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -20688,6 +20997,23 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "ヨルダン",
+                        "Jordan",
+                        "",
+                        "",
+                        "ヨルダンの国旗",
+                        "<img alt=\"国旗のイラスト（ヨルダン・ハシミテ王国）\" src=\"illustkun-05136-jordan-flag.png\">",
+                        "yorudan"
+                    ],
+                    "guid": "G:^%QO2eiC",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::place"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "カメラ",
                         "camera",
                         "",
@@ -20729,6 +21055,23 @@
                     "guid": "GB;/(T2UT&",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ルームランナー",
+                        "treadmill",
+                        "'room runner'",
+                        "esp. for home use",
+                        "スポーツジムのランニングマシーンを使って走っている男性",
+                        "<img alt=\"ランニングマシンで走る人のイラスト（男性）\" src=\"gym_running_man.png\">",
+                        "rūmurannā"
+                    ],
+                    "guid": "GHD!@p+4&",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::wasei"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -20981,7 +21324,7 @@
                         "",
                         "パニック（棒人間）",
                         "<img alt=\"パニックのイラスト（棒人間）\" src=\"figure_panic.png\">",
-                        ""
+                        "kaosu"
                     ],
                     "guid": "Gtae7Rq{k_",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -21166,10 +21509,10 @@
                         "モラトリアム人間",
                         "young adult<br>refusing adulthood",
                         "moratorium + Japanese 人間 '<i>ningen'</i>&nbsp;(person)",
-                        "person who has not developed emotional maturity<br>(similar to <i>freeter</i>)",
-                        "社会人になることに対して不安を感じて子供のままでいたいと思っている大学生",
+                        "similar to&nbsp;<i>freeter,&nbsp;</i>person who has not developed emotional maturity<br>",
+                        "社会人になることに対して不安を感じて<br>子供のままでいたいと思っている大学生",
                         "<img alt=\"モラトリアムのイラスト（男性）\" src=\"moratorium_man.png\">",
-                        ""
+                        "moratoriamuningen"
                     ],
                     "guid": "H;e6mCMQGW",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -21294,6 +21637,23 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "ググる",
+                        "to google",
+                        "",
+                        "",
+                        "検索虫眼鏡",
+                        "<img alt=\"検索虫眼鏡のイラスト「Search」\" src=\"search_mushimegane.png\">",
+                        "guguru"
+                    ],
+                    "guid": "HP9~wtk0%H",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::colloquial"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "キャディー",
                         "caddie (golf)",
                         "",
@@ -21345,7 +21705,7 @@
                         "scum・loser",
                         "",
                         "",
-                        ""
+                        "kuzu"
                     ],
                     "guid": "H`z~YZ&<<t",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -21496,12 +21856,12 @@
                     "__type__": "Note",
                     "fields": [
                         "デパ地下",
-                        "department store basement level (where food is often sold)",
+                        "department store basement level",
                         "'de(partment store)' + Japanese 地下 'chika' (underground)",
-                        "",
-                        "",
-                        "",
-                        "depa地下"
+                        "where foodstuffs are usually sold",
+                        "お店が並んだ室内の通路",
+                        "<img alt=\"お店が並んだ室内の通路のイラスト\" src=\"shopping_mall_ekinaka.png\">",
+                        "depachika"
                     ],
                     "guid": "IRY)G`4c@;",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -21590,8 +21950,8 @@
                     "__type__": "Note",
                     "fields": [
                         "ピンポン",
-                        "table tennis",
-                        "'ping-pong'",
+                        "ping-pong (table tennis)",
+                        "",
                         "also used for the 'ding-dong' <br>sound of a doorbell",
                         "バスピン（バスケットピンポン）",
                         "<img alt=\"バスピンのイラスト\" src=\"sports_basupin.png\">",
@@ -21738,7 +22098,7 @@
                         "trademark name of Pentel's",
                         "黒いマジックペン",
                         "<img alt=\"マジックペンのイラスト（文房具）\" src=\"bunbougu_magic.png\">",
-                        ""
+                        "sainpen"
                     ],
                     "guid": "JJ(KoZYx##",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -21781,12 +22141,12 @@
                     "__type__": "Note",
                     "fields": [
                         "ファミコン",
-                        "Nintendo Entertainment System<br>(NES)",
+                        "Famicon",
                         "'Fami(ly) Com(puter)'",
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Nintendo Entertainment System (NES)",
+                        "ゲームに熱中している男の子",
+                        "<img alt=\"ゲームに熱中している男の子のイラスト\" src=\"videogame_boy.png\">",
+                        "famikon"
                     ],
                     "guid": "JR%6VX8J~^",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -22020,7 +22380,7 @@
                         "",
                         "",
                         "<img alt=\"text_syouene_seinou.png (800×341)\" src=\"text_syouene_seinou.png\">",
-                        "省ene"
+                        "shōene"
                     ],
                     "guid": "K3xd/<6YHX",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -22173,13 +22533,13 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "空オケ or カラオケ",
+                        "カラオケ",
                         "karaoke",
                         "Japanese 空 'kara' (empty) + 'orche(stra)'",
                         "",
                         "",
                         "<img alt=\"karaoke_saiten.png (800×726)\" src=\"karaoke_saiten.png\">",
-                        "空oke or karaoke"
+                        "karaoke"
                     ],
                     "guid": "K]`eRLosko",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -22261,7 +22621,7 @@
                         "",
                         "頭を抱えて悩んでいる人",
                         "<img alt=\"頭を抱えて悩んでいる人のイラスト（男性）\" src=\"pose_atama_kakaeru_man.png\">",
-                        ""
+                        "pinchi"
                     ],
                     "guid": "L$XdeCY8IU",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -22276,7 +22636,7 @@
                         "",
                         "髪にパーマをかけた男性",
                         "<img alt=\"パーマのイラスト（男性）\" src=\"perm_hair_man.png\">",
-                        ""
+                        "pāma"
                     ],
                     "guid": "L%?k-:;&k/",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -22415,16 +22775,18 @@
                     "__type__": "Note",
                     "fields": [
                         "ムーディ",
-                        "atmospheric, romantic",
-                        "'moody'",
-                        "extended katakana: ディ (di)",
+                        "moody",
+                        "",
+                        "extended katakana: ディ (di)<br>having a good atmosphere・romantic",
                         "",
                         "",
                         "mūdi"
                     ],
                     "guid": "L`o4_JK6,]",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-                    "tags": []
+                    "tags": [
+                        "Katakana-Practice::wasei"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -22508,8 +22870,8 @@
                         "merit",
                         "",
                         "",
-                        "",
-                        "",
+                        "ボールを比較している人",
+                        "<img alt=\"比較している人のイラスト（男性）\" src=\"hikaku_ball_man.png\">",
                         "meritto"
                     ],
                     "guid": "Lx98FM]5xQ",
@@ -22525,7 +22887,7 @@
                         "",
                         "パソコンを壊した人",
                         "<img alt=\"パソコンを壊した人のイラスト（女性）\" src=\"computer_kowasu_woman.png\">",
-                        ""
+                        "toraburu"
                     ],
                     "guid": "L}i6cq*Nua",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -22674,7 +23036,7 @@
                     "__type__": "Note",
                     "fields": [
                         "メス",
-                        "surgical knife",
+                        "scalpel",
                         "Dutch 'mes' (knife)",
                         "",
                         "手術（電気メス）",
@@ -22799,7 +23161,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ロープウェー",
-                        "cable car・ropeway",
+                        "ropeway・cable car",
                         "",
                         "extended katakana: ウェ (we)",
                         "",
@@ -23018,7 +23380,7 @@
                         "duo・pair",
                         "ものまね芸人",
                         "<img alt=\"ものまね芸人のイラスト\" src=\"monomane_geinin.png\">",
-                        ""
+                        "konbi"
                     ],
                     "guid": "N<r4pvreib",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -23221,8 +23583,8 @@
                         "frill",
                         "",
                         "",
-                        "",
-                        "",
+                        "ゴシックな服装をした女性",
+                        "<img alt=\"ゴシックな服装をした女性のイラスト\" src=\"fashion_gothic_and_lolita.png\">",
                         "furiru"
                     ],
                     "guid": "O(-Q-gK%Bi",
@@ -23525,7 +23887,7 @@
                         "homesickness",
                         "",
                         "",
-                        "故郷の家族を思い出して涙を流している、ホームシックになった男性",
+                        "故郷の家族を思い出して涙を流している、<br>ホームシックになった男性",
                         "<img alt=\"ホームシックのイラスト（男性）\" src=\"homesick_man.png\">",
                         "hōmushikku"
                     ],
@@ -23555,8 +23917,8 @@
                         "margarine",
                         "",
                         "",
-                        "",
-                        "",
+                        "四角いパックに入った、<br>トーストに塗るマーガリン",
+                        "<img alt=\"マーガリンのイラスト\" src=\"food_margarine.png\">",
                         "māgarin"
                     ],
                     "guid": "Ooo-3DKN9q",
@@ -23932,7 +24294,7 @@
                         "day for giving white chocolate and other <br>presents to female coworkers and friends<br>in return for gifts received on Valentine's day",
                         "ホワイトデー「彼女にプレゼント」",
                         "<img alt=\"ホワイトデーのイラスト「彼女にプレゼント」\" src=\"white_day_couple.png\">",
-                        ""
+                        "howaitodē"
                     ],
                     "guid": "Pl[LiKLZso",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -23979,7 +24341,7 @@
                         "",
                         "",
                         "",
-                        ""
+                        "abazure"
                     ],
                     "guid": "Po6=IiBLA_",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -24008,9 +24370,9 @@
                         "ビル",
                         "building",
                         "'buil(ding)'・also ’bill’",
-                        "esp. modern steel / concrete buildings<br>not to be confused with ビール (bīru “beer”).",
-                        "",
-                        "",
+                        "esp. modern steel / concrete buildings<br>not to be confused with ビール (bīru 'beer').",
+                        "会社のビル",
+                        "<img alt=\"会社のビルのイラスト\" src=\"building_kaisya.png\">",
                         "biru"
                     ],
                     "guid": "Psi}{QuWV]",
@@ -24025,7 +24387,7 @@
                         "パンツ",
                         "(under)pants",
                         "",
-                        "or trousers (esp. women's)&nbsp;",
+                        "or trousers esp. for women's",
                         "シンプルな黄緑色のズボン",
                         "",
                         "pantsu"
@@ -24133,8 +24495,8 @@
                         "bargain sale",
                         "",
                         "abbr. バーゲン or セール",
-                        "",
-                        "",
+                        "ショッピング「セールで買い物」",
+                        "<img alt=\"ショッピングのイラスト「セールで買い物」\" src=\"shopping_sale.png\">",
                         "bāgensēru"
                     ],
                     "guid": "Q2XAQ1;%,l",
@@ -24314,7 +24676,7 @@
                         "",
                         "車の交通事故",
                         "<img alt=\"車の交通事故のイラスト（女性）\" src=\"koutsu_jiko_car_woman.png\">",
-                        ""
+                        "kurasshu"
                     ],
                     "guid": "QI1U;tO`%7",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -24384,11 +24746,11 @@
                     "__type__": "Note",
                     "fields": [
                         "ユダヤ",
-                        "Judea, Jewish",
+                        "Judea・Jews",
+                        "Latin 'Iūdaea'",
                         "",
-                        "",
-                        "",
-                        "",
+                        "ユダヤ教超正統派の男性",
+                        "<img alt=\"ユダヤ教超正統派の男性のイラスト\" src=\"jewish_hasidism_man.png\">",
                         "yudaya"
                     ],
                     "guid": "QbWYn(g9hd",
@@ -24449,7 +24811,7 @@
                         "",
                         "",
                         "<img alt=\"oven_renji.png (728×683)\" src=\"oven_renji.png\">",
-                        "電子renji"
+                        "denshi renji"
                     ],
                     "guid": "Qo=;R0QAc~",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -24509,8 +24871,8 @@
                         "fair",
                         "",
                         "extended katakana: フェ (fe)",
-                        "",
-                        "",
+                        "自分の作った同人誌を机の上に並べて売っている男性",
+                        "<img alt=\"設営完了のイラスト（男性）\" src=\"book_doujin_setsuei_man.png\">",
                         "fea"
                     ],
                     "guid": "QxH:Xcz1|y",
@@ -24759,8 +25121,8 @@
                         "melody",
                         "",
                         "extended katakana: ディ (di)",
-                        "",
-                        "",
+                        "白黒の五線譜のメロディ",
+                        "<img alt=\"白黒の五線譜のメロディのイラスト\" src=\"onpu_monochrome_8931.png\">",
                         "merodī"
                     ],
                     "guid": "b>SuB`Gx-T",
@@ -24806,12 +25168,29 @@
                         "",
                         "秘密のポーズ",
                         "<img alt=\"秘密のポーズのイラスト\" src=\"naisyo_woman.png\">",
-                        ""
+                        "ecchi"
                     ],
                     "guid": "bMHN%6z<ha",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
                     "tags": [
                         "Katakana-Practice::abbr."
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ネカマ",
+                        "GIRL<br>(Guy In Real Life)",
+                        "ネ(ット) 'Internet' + (オ)カマ 'faggot'",
+                        "",
+                        "ネット上のなりすまし",
+                        "<img alt=\"ネット上のなりすましのイラスト（男性）\" src=\"sns_profile_sasyou_nekama_man.png\">",
+                        "nekama"
+                    ],
+                    "guid": "bRZ-4P,~j",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::colloquial"
                     ]
                 },
                 {
@@ -24884,7 +25263,7 @@
                         "ヴォーカリスト",
                         "vocalist&nbsp;",
                         "more commonly 'ボーカリスト'",
-                        "<br>extended katakana: ヴォ (vo)",
+                        "extended katakana: ヴォ (vo)",
                         "バンドミュージシャ",
                         "<img alt=\"バンドミュージシャンのイラスト\" src=\"school_man.png\">",
                         "vōkarisuto"
@@ -24978,7 +25357,7 @@
                         "'pocke(t) mon(ster)'",
                         "",
                         "",
-                        "",
+                        "<img alt=\"いらすとや×ポケモン ぴかぴかスタンプ - LINE スタンプ | LINE STORE\" src=\"main.png\">",
                         "pokemon"
                     ],
                     "guid": "bwD;u{_MJf",
@@ -25007,13 +25386,13 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ワイシャツ or Yシャツ",
-                        "dress shirt (of any color)",
+                        "ワイシャツ&nbsp;",
+                        "dress shirt",
                         "'white shirt'",
-                        "",
+                        "also 'Yシャツ'",
                         "",
                         "<img alt=\"waisyatsu.png (700×540)\" src=\"waisyatsu.png\">",
-                        "waishatsu or Y-shatsu"
+                        "waishatsu"
                     ],
                     "guid": "c3TUR=3>n8",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -25194,7 +25573,7 @@
                     "__type__": "Note",
                     "fields": [
                         "リスト",
-                        "list",
+                        "list・wrist",
                         "",
                         "",
                         "ToDoリストのテンプレート（白黒・動物アイコン）",
@@ -25331,7 +25710,7 @@
                     "__type__": "Note",
                     "fields": [
                         "レベルアップ",
-                        "'level up'--gain an experience level in a computer game",
+                        "leveling up・improvement",
                         "'level up'",
                         "",
                         "カラフルな箱の積み立て（積み上げ）をしている白い棒人間<br>",
@@ -25440,7 +25819,7 @@
                     "__type__": "Note",
                     "fields": [
                         "プロポーズ",
-                        "marriage proposal",
+                        "(marriage) proposal",
                         "",
                         "",
                         "プロポーズしようとしている人",
@@ -25635,7 +26014,7 @@
                         "",
                         "勢いをつけてボールを投げる女子野球の選手",
                         "<img alt=\"ピッチャーのイラスト（女性）\" src=\"baseball_pitcher_woman.png\">",
-                        "puro野球"
+                        "puroyakyū"
                     ],
                     "guid": "demXe2]}x1",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -25689,13 +26068,13 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "メッセージ or メセージ",
+                        "メッセージ",
                         "message",
                         "",
-                        "",
-                        "",
-                        "",
-                        "messēji or mesēji"
+                        "also メセージ",
+                        "メッセージアプリ",
+                        "<img alt=\"メッセージアプリのイラスト\" src=\"computer_message_app.png\">",
+                        "messēji"
                     ],
                     "guid": "dsS;Frb>|e",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -25925,11 +26304,11 @@
                     "__type__": "Note",
                     "fields": [
                         "ラムネ",
-                        "Ramune (a brand of soft drink)",
+                        "Ramune",
                         "'lemona(de)'",
-                        "",
-                        "",
-                        "",
+                        "a type of carbonated soft drink",
+                        "ラムネ（飲み物）",
+                        "<img alt=\"ラムネのイラスト（飲み物）\" src=\"sweets_ramune_drink.png\">",
                         "ramune"
                     ],
                     "guid": "eK7wR1=L(8",
@@ -26034,7 +26413,7 @@
                     "__type__": "Note",
                     "fields": [
                         "プロデューサー",
-                        "producer",
+                        "producer&nbsp;(film, TV, etc.)",
                         "",
                         "extended katakana: デュ (dyu)",
                         "ピンクのカーディガンを肩にかけたテレビ制作の統括をするプロデューサー",
@@ -26403,13 +26782,13 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "モビール or モバイル",
-                        "mobile, esp. mobile devices such as smartphones",
+                        "モビール",
+                        "mobile",
                         "",
                         "",
                         "",
                         "",
-                        "mobīru or mobairu"
+                        "mobīru"
                     ],
                     "guid": "fW@`@t&4jV",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -26709,11 +27088,28 @@
                         "",
                         "段ボールの上でボロボロの服を着ているホームレスの男性",
                         "<img alt=\"ホームレスのイラスト\" src=\"homeless_furousya.png\">",
-                        ""
+                        "hōmuresu"
                     ],
                     "guid": "g4BLS+A5F^",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ギリシャ",
+                        "Greece",
+                        "Portuguese: 'Grécia'",
+                        "",
+                        "ギリシャの国旗",
+                        "<img alt=\"国旗のイラスト（ギリシャ）\" src=\"illustkun-01137-greece-flag.png\">",
+                        "girisha"
+                    ],
+                    "guid": "gA{V@I?Mi/",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::place"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -27035,7 +27431,7 @@
                         "body check",
                         "",
                         "strip-searching・security check<br>extended katakana: ディ (di), チェ (che)",
-                        "空港やイベント会場などで危険物の持ち込みがないか金属探知機などで身体検査を行っている警備員",
+                        "空港やイベント会場などで危険物の持ち込みがないか<br>金属探知機などで身体検査を行っている警備員",
                         "<img alt=\"ボディチェックのイラスト（男性）\" src=\"security_body_check_man.png\">",
                         "bodichekku"
                     ],
@@ -27113,10 +27509,10 @@
                         "ニート",
                         "NEET",
                         "",
-                        "freeter; young adult who's:<br>Not in Education, Employment or Training",
+                        "freeter・young adult who's:<br>Not in Education, Employment or Training",
                         "親を怒鳴る無職",
                         "<img alt=\"親を怒鳴る無職のイラスト\" src=\"neet_erasou.png\">",
-                        ""
+                        "nīto"
                     ],
                     "guid": "h>3BY8+_@=",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -27148,8 +27544,8 @@
                         "gas cylinder",
                         "German 'Bombe' (bomb)",
                         "canister for storing pressurized gas",
-                        "",
-                        "",
+                        "家庭用ガスボンベ",
+                        "<img alt=\"家庭用ガスボンベのイラスト\" src=\"cooking_gas_bonbe.png\">",
                         "bonbe"
                     ],
                     "guid": "hA7Z#!hWD:",
@@ -27182,7 +27578,7 @@
                         "Enhydra lutris",
                         "ラッコのキャラクター",
                         "<img alt=\"ラッコのキャラクター\" src=\"character_animal_rakko.png\">",
-                        ""
+                        "rakko"
                     ],
                     "guid": "hL_I4:52rD",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -27365,11 +27761,11 @@
                     "__type__": "Note",
                     "fields": [
                         "プッシュホン",
-                        "touch-tone phone",
+                        "push-button telephone",
                         "'push phone'",
                         "",
-                        "",
-                        "",
+                        "オフィスなどで使われる、一般的な事務用の電話",
+                        "<img alt=\"電話のイラスト\" src=\"kaden_denwa.png\">",
                         "pusshuhon"
                     ],
                     "guid": "hsTw>gb}ju",
@@ -27382,9 +27778,9 @@
                     "__type__": "Note",
                     "fields": [
                         "プラスアルファ",
-                        "a little bit more,<br>icing on the cake,<br>something on top / extra",
-                        "+α 'plus alpha'<br>also written プラスα&nbsp;",
-                        "extended katakana: ファ (fa)&nbsp;",
+                        "… and more",
+                        "+α 'plus alpha'<br>also written プラスα<br>extended katakana: ファ (fa)&nbsp;&nbsp;",
+                        "a little bit more・icing on the cake・something on-top / extra<br>",
                         "",
                         "",
                         "purasuarufa"
@@ -27579,7 +27975,7 @@
                         "",
                         "虹色の旗",
                         "<img alt=\"虹色の旗のイラスト\" src=\"lgbt_rainbow_flag.png\">",
-                        ""
+                        "nyūhāfu"
                     ],
                     "guid": "i:UE+;)Wp7",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -27658,7 +28054,7 @@
                         "person who has a driving licence <br>but little or no experience actually driving",
                         "初心者マークをつけて運転する人<br><br>(The green/yellow leaf sticker;<br>symbol for paper or novice drivers)",
                         "<img alt=\"初心者マークをつけて運転する人のイラスト\" src=\"car_drive_mark_syoshinsya.png\">",
-                        ""
+                        "pēpādoraibā"
                     ],
                     "guid": "iIW)GucOsm",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -27686,7 +28082,7 @@
                     "fields": [
                         "ワクチン",
                         "vaccine",
-                        "",
+                        "German 'vakzin'",
                         "",
                         "",
                         "<img alt=\"sick_vaccine.png (800×745)\" src=\"sick_vaccine.png\">",
@@ -27703,8 +28099,8 @@
                         "hole in one",
                         "",
                         "",
-                        "",
-                        "",
+                        "接待ゴルフ",
+                        "<img alt=\"\" src=\"golf_settai.png\">",
                         "hōruinwan"
                     ],
                     "guid": "iR.D1(jwZ=",
@@ -27775,7 +28171,7 @@
                     "__type__": "Note",
                     "fields": [
                         "レーザーディスク",
-                        "laser disk",
+                        "LaserDisc",
                         "",
                         "extended katakana: ディ (di)",
                         "ディスクメディア",
@@ -27880,11 +28276,11 @@
                     "__type__": "Note",
                     "fields": [
                         "プロ",
-                        "professional (business or sports)",
+                        "pro・professional",
                         "",
                         "",
-                        "",
-                        "",
+                        "プロゲーマー",
+                        "<img alt=\"プロゲーマーのイラスト\" src=\"job_pro_gamer.png\">",
                         "puro"
                     ],
                     "guid": "ix}6hXe53n",
@@ -27979,8 +28375,8 @@
                         "half time",
                         "",
                         "",
-                        "",
-                        "",
+                        "VARポーズ",
+                        "<img alt=\"VARポーズのイラスト\" src=\"sports_referee_var_pose.png\">",
                         "hāfutaimu"
                     ],
                     "guid": "j5Ok57(z@Z",
@@ -28073,11 +28469,11 @@
                     "__type__": "Note",
                     "fields": [
                         "ポピュラー",
-                        "popular (music)",
+                        "popular",
                         "",
-                        "",
-                        "",
-                        "",
+                        "abbr. of popular music in general",
+                        "レビュアー",
+                        "<img alt=\"レビュアーのイラスト（男性5）\" src=\"review_man_star5.png\">",
                         "popyurā"
                     ],
                     "guid": "jW79WtuW},",
@@ -28249,7 +28645,7 @@
                         "extended katakana: ジェ (je)",
                         "飛行機のコックピット",
                         "<img alt=\"飛行機のコックピットのイラスト（空）\" src=\"airplane_cockpit_sky.jpg\">",
-                        "jetto機"
+                        "jetto ki"
                     ],
                     "guid": "k+P.M]FPh:",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -28481,8 +28877,8 @@
                         "terror",
                         "'terro(rism)'",
                         "",
-                        "",
-                        "",
+                        "闇の組織",
+                        "<img alt=\"闇の組織のイラスト\" src=\"money_yami_soshiki.png\">",
                         "tero"
                     ],
                     "guid": "k^xl7o&!v+",
@@ -28530,8 +28926,8 @@
                         "Velcro",
                         "'magic tape' (Japanese trade name for velcro)",
                         "",
-                        "",
-                        "",
+                        "無地のマスキングテープ",
+                        "<img alt=\"無地のマスキングテープのイラスト\" src=\"bunbougu_masking_tape_yellow.png\">",
                         "majikkutēpu"
                     ],
                     "guid": "kbk5}~m+]0",
@@ -28548,8 +28944,8 @@
                         "railway platform",
                         "'(plat)form'",
                         "",
-                        "",
-                        "",
+                        "駅のホーム",
+                        "<img alt=\"駅のホームのイラスト（背景素材）\" src=\"bg_eki_home.jpg\">",
                         "hōmu"
                     ],
                     "guid": "kjNTo{-mUL",
@@ -28568,7 +28964,7 @@
                         "advertising slogan・catchphrase",
                         "「広告チラシお断り！」のイラスト文字",
                         "<img alt=\"「広告チラシお断り！」のイラスト文字\" src=\"pop_okotowari_chirashi.png\">",
-                        ""
+                        "kyatchikopī"
                     ],
                     "guid": "kq4!mZxtg^",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -28667,7 +29063,7 @@
                         "",
                         "ざわざわ、といった擬音の文字です",
                         "<img alt=\"擬音のイラスト文字（ざわざわ）\" src=\"text_gion_zawazawa.png\">",
-                        ""
+                        "onomatope"
                     ],
                     "guid": "l>^>n$E__=",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -28729,7 +29125,7 @@
                         "notebook computer",
                         "プログラミングをする人",
                         "<img alt=\"プログラミングをする人のイラスト（男性）\" src=\"computer_programming_man.png\">",
-                        ""
+                        "nōtopasokon"
                     ],
                     "guid": "lKuH)yrbP{",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -29082,12 +29478,12 @@
                     "__type__": "Note",
                     "fields": [
                         "満タン",
-                        "full tank, full capacity",
+                        "full tank",
                         "Japanese 満 'man' (full) + 'tan(k)'",
                         "",
                         "ガソリン車",
                         "<img alt=\"ガソリン車のイラスト\" src=\"car_gasoline.png\">",
-                        "満tan"
+                        "mantan"
                     ],
                     "guid": "mG*~.u;[>f",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -29169,7 +29565,7 @@
                         "",
                         "英語のリーディング",
                         "<img alt=\"英語のリーディングのイラスト\" src=\"english_reading.png\">",
-                        "rōma字"
+                        "rōmaji"
                     ],
                     "guid": "mQXPQe,#Ed",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -29209,7 +29605,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ライト",
-                        "right・light",
+                        "light・right",
                         "",
                         "",
                         "シンプルな懐中電灯（ハンディライト）",
@@ -29304,8 +29700,8 @@
                         "privately owned car",
                         "'my car'",
                         "not necessarily the speaker's own",
-                        "",
-                        "",
+                        "車好き（女性）",
+                        "<img alt=\"車好きのイラスト（女性）\" src=\"car_lover_woman.png\">",
                         "maikā"
                     ],
                     "guid": "m`bDJ#12h}",
@@ -29367,7 +29763,7 @@
                         "ゴロゴロ",
                         "rumbling / rolling sound",
                         "katakana used for onomatopoeia",
-                        "rumbling of thunder, one's stomach, purring etc.",
+                        "rumbling of thunder・one's stomach・purring etc.",
                         "雷雲と、光る雷",
                         "<img alt=\"雷・雷雲のイラスト（自然災害）\" src=\"shizensaigai_kaminari.png\">",
                         "gorogoro"
@@ -30240,7 +30636,7 @@
                         "",
                         "ハイジャック（バスジャック）",
                         "<img alt=\"ハイジャックのイラスト\" src=\"travel_highjack.png\">",
-                        ""
+                        "basujakku"
                     ],
                     "guid": "p1zHwt4l80",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -30282,7 +30678,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ラム",
-                        "lamb (meat)・rum",
+                        "lamb・rum",
                         "",
                         "",
                         "羊の親子",
@@ -30342,7 +30738,7 @@
                     "__type__": "Note",
                     "fields": [
                         "アクセル",
-                        "accelerator (pedal)",
+                        "accelerator pedal",
                         "'accel(erator)'",
                         "",
                         "車のペダル",
@@ -30551,8 +30947,8 @@
                         "meat sauce",
                         "",
                         "",
-                        "",
-                        "",
+                        "ミートソースの缶",
+                        "<img alt=\"Illustration of a can of meat sauce\" src=\"canned_meat-sauce_14769.png\">",
                         "mītosōsu"
                     ],
                     "guid": "py|w~1$-8E",
@@ -30641,8 +31037,8 @@
                         "department store",
                         "",
                         "",
-                        "お店が並んだ室内の通路",
-                        "<img alt=\"お店が並んだ室内の通路のイラスト\" src=\"shopping_mall_ekinaka.png\">",
+                        "デパート・百貨店",
+                        "<img alt=\"デパート・百貨店のイラスト\" src=\"tatemono_department_store.png\">",
                         "depāto"
                     ],
                     "guid": "q7C{9-eN/N",
@@ -30695,6 +31091,23 @@
                     "guid": "qC.TQ{>ftT",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "モテる",
+                        "to be popular",
+                        "Japanese 持てる 'to be able to possess'",
+                        "to be well-liked esp. with the opposite sex<br>not 'motel' (モテル)",
+                        "モテモテの女性が沢山の男性達に<br>囲まれてハーレム状態になっている",
+                        "<img alt=\"モテる人のイラスト（女性）\" src=\"harem_woman.png\">",
+                        "moteru"
+                    ],
+                    "guid": "qEGWbzk-_#",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::colloquial"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -30780,8 +31193,8 @@
                         "one-size-fits-all",
                         "'free size'",
                         "",
-                        "",
-                        "",
+                        "大きなサイズの服を着た人（女性）",
+                        "<img alt=\"大きなサイズの服を着た人のイラスト（女性）\" src=\"fashion_oversize_tshirt_woman.png\">",
                         "furīsaizu"
                     ],
                     "guid": "qV*L:rY7ik",
@@ -30794,7 +31207,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ベビーカー",
-                        "stroller (US),<br>pushchair or pram (UK)",
+                        "stroller (US)<br>pushchair or pram (UK)",
                         "'baby car'",
                         "",
                         "ベビーカーを押すお父さんの表情",
@@ -30956,7 +31369,7 @@
                         "ユネスコ",
                         "UNESCO",
                         "",
-                        "",
+                        "United Nations Educational, <br>Scientific and Cultural Organization",
                         "国連加盟国が集まって議会を行っている",
                         "<img alt=\"国際連合総会のイラスト\" src=\"un_kokusai_kaigi.png\">",
                         "yunesuko"
@@ -31202,7 +31615,7 @@
                         "usually served cold in Japan",
                         "お茶",
                         "<img alt=\"tea4.png (687×687)\" src=\"tea4.png\">",
-                        "ūron茶"
+                        "ūroncha"
                     ],
                     "guid": "rNpwGHx_+$",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -31322,7 +31735,7 @@
                         "revenge<br>",
                         "",
                         "a do over・to avenge<br>attempt again (after failure)",
-                        "悔しそうに泣きながら歯を食いしばる男性が地面を叩いている",
+                        "悔しそうに泣きながら歯を<br>食いしばる男性が地面を叩いている",
                         "<img alt=\"悔しい人のイラスト（男性）\" src=\"pose_kuyashii_man.png\">",
                         "ribenji"
                     ],
@@ -31356,7 +31769,7 @@
                         "extended katakana: イェ(ye)",
                         "ガウンを着た卒業生",
                         "<img src=\"sotsugyou_graduation_gown_asia_woman.png\">",
-                        "yēru大学"
+                        "yērudaigaku"
                     ],
                     "guid": "rij8emqKSK",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -31376,6 +31789,23 @@
                     "guid": "riy;@8!BRu",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ベルギー",
+                        "Belgium",
+                        "",
+                        "",
+                        "ベルギーの国旗",
+                        "<img alt=\"国旗のイラスト（ベルギー）\" src=\"illustkun-01059-belgium-flag.png\">",
+                        "berugī"
+                    ],
+                    "guid": "rls^7cf3eL",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::place"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -31448,7 +31878,7 @@
                         "",
                         "やる気のある会社員",
                         "<img alt=\"やる気のある会社員のイラスト（男性）\" src=\"yaruki_aru_suit_man.png\">",
-                        ""
+                        "tenshon"
                     ],
                     "guid": "s1VWK{G=SI",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -31858,7 +32288,7 @@
                         "Rangifer tarandus",
                         "立派な角の生えたトナカイ",
                         "<img alt=\"トナカイのイラスト\" src=\"animal_moose.png\">",
-                        ""
+                        "tonakai"
                     ],
                     "guid": "t>8@VUOA)&",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -32246,11 +32676,11 @@
                     "fields": [
                         "ポテチ",
                         "potato chips",
-                        "'potato + chips'",
+                        "'pota(to) + chi(ps)'",
                         "",
                         "お菓子の袋を勢いよく開けた人",
                         "<img alt=\"お菓子の袋を勢いよく開けた人のイラスト\" src=\"sweets_potatochips_bakuhatsu.png\">",
-                        ""
+                        "potechi"
                     ],
                     "guid": "u)l>Xqf/Bj",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -32380,7 +32810,7 @@
                         "climbing irons・metal pins of climbing shoes<br>(attachment to a shoe used for climbing or walking on ice)",
                         "登山靴・トレッキングシューズ",
                         "<img alt=\"登山靴・トレッキングシューズのイラスト\" src=\"tozan_kutsu.png\">",
-                        ""
+                        "aizen"
                     ],
                     "guid": "uH|$F]/,2r",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -32474,7 +32904,7 @@
                         "trad. celebratory cheer;<br>shouted while raising both arms in the air",
                         "バンザイをしている学生たち",
                         "<img alt=\"バンザイをしている学生たちのイラスト\" src=\"banzai_school.png\">",
-                        ""
+                        "banzai"
                     ],
                     "guid": "u[aWgd3Rwr",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -32558,13 +32988,13 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "フリーダイアル or フリーダイヤル",
-                        "toll free call",
+                        "フリーダイヤル",
+                        "toll free number",
                         "'free dial'",
-                        "",
-                        "",
-                        "",
-                        "furīdaiaru or furīdaiyaru"
+                        "also 'フリーダイアル'",
+                        "携帯電話で話す人",
+                        "<img alt=\"携帯電話で話す人のイラスト（男性）\" src=\"smartphone_talk03_man.png\">",
+                        "furīdaiyaru"
                     ],
                     "guid": "v3-w^(3t|H",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -32611,7 +33041,7 @@
                         "",
                         "お父さんと楽しそうにキャッチボールをしている男の子",
                         "<img alt=\"キャッチボールのイラスト「お父さんと息子」\" src=\"catchball_father.png\">",
-                        ""
+                        "kyatchibōru"
                     ],
                     "guid": "vLMCUEa=rl",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -32844,8 +33274,8 @@
                         "boxer shorts",
                         "'trunks'",
                         "",
-                        "",
-                        "",
+                        "男性用のトランクスとブリーフ（パンツ）",
+                        "<img alt=\"男性用下着のイラスト\" src=\"fashion_shitagi_man.png\">",
                         "torankusu"
                     ],
                     "guid": "w(qgm/[|da",
@@ -32856,7 +33286,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ワンワン",
-                        "the sound of a dog barking",
+                        "bow-wow",
                         "",
                         "katakana used for onomatopoeia",
                         "吠えている犬",
@@ -32918,12 +33348,12 @@
                     "__type__": "Note",
                     "fields": [
                         "食パン",
-                        "pan loaf",
+                        "loaf of bread",
                         "Japanese&nbsp;食 'shoku' (food) + Portugese 'pan' (bread)",
                         "",
                         "",
                         "<img alt=\"bread_syokupan_6maigiri.png (637×552)\" src=\"bread_syokupan_6maigiri.png\">",
-                        "食pan"
+                        "shokupan"
                     ],
                     "guid": "w9Tz?%&7x4",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -33069,6 +33499,23 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "キプロス",
+                        "Cyprus",
+                        "Greek 'Kýpros'",
+                        "",
+                        "キプロスの国旗",
+                        "<img alt=\"国旗のイラスト（キプロス共和国）\" src=\"illustkun-05090-cypriot-flag.png\">",
+                        "kipurosu"
+                    ],
+                    "guid": "wjW&7-$(@_",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": [
+                        "Katakana-Practice::place"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "ワンポールテント",
                         "one-pole tent",
                         "",
@@ -33194,7 +33641,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ファンファーレ",
-                        "musical fanfare",
+                        "(musical) fanfare",
                         "",
                         "extended katakana: ファ (fa)",
                         "",
@@ -33275,7 +33722,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ピント",
-                        "focus",
+                        "focus・focal point",
                         "Dutch 'brandpunt'",
                         "",
                         "ピンボケ写真の",
@@ -33414,12 +33861,12 @@
                     "__type__": "Note",
                     "fields": [
                         "ワンパターン",
-                        "repetitive・one-track",
-                        "'one pattern'",
-                        "being in a rut<br>conforming to a single pattern",
+                        "one pattern",
+                        "",
+                        "repetitive・one-track・being in a rut<br>conforming to a single pattern",
                         "うろこのパターン",
                         "<img alt=\"うろこのパターン\" src=\"pattern_uroko.jpg\">",
-                        ""
+                        "wanpatān"
                     ],
                     "guid": "x].-~*]twS",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -33569,13 +34016,28 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "軽トラ or ケイトラ",
-                        "light commercial truck",
-                        "Japanese 軽 'kei' (light-duty) + 'tru(ck)'",
+                        "バレる",
+                        "to be found out",
+                        "",
+                        "",
+                        "何か隠し事をしていて、<br>後ろめたい表情をしている男性",
+                        "<img alt=\"隠し事をしている人のイラスト（男性）\" src=\"pose_kakushigoto_man.png\">",
+                        "bareru"
+                    ],
+                    "guid": "y#pxBhRS6>",
+                    "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ケイトラ",
+                        "mini truck",
+                        "Japanese 軽 'kei' (light) + 'tru(ck)'",
                         "",
                         "",
                         "<img alt=\"car_kei_truck.png (782×686)\" src=\"car_kei_truck.png\">",
-                        "軽tora or keitora"
+                        "keitora"
                     ],
                     "guid": "y%ck!Gs.W>",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -33651,7 +34113,7 @@
                     "fields": [
                         "ファンタジック",
                         "fantastic (like a fantasy)",
-                        "fantasy + ic = 'fantastic'",
+                        "fantasy + ic = fantastic",
                         "extended katakana: ファ (fa)",
                         "可愛い魔女・魔法使い",
                         "<img alt=\"可愛い魔女のイラスト\" src=\"majo_girl_majokko.png\">",
@@ -33764,7 +34226,7 @@
                         "",
                         "笑顔のお茶の間",
                         "<img alt=\"笑顔のお茶の間のイラスト\" src=\"ochanoma_smile.png\">",
-                        ""
+                        "gōrudentaimu"
                     ],
                     "guid": "y[^%ji.E)f",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -33874,8 +34336,8 @@
                         "blouse",
                         "",
                         "",
-                        "",
-                        "",
+                        "長袖のブラウスの合服（制服・学生服)",
+                        "<img alt=\"合服を着た女子学生のイラスト（カーディガン）\" src=\"seifuku_aifuku_woman_cardigan.png\">",
                         "burausu"
                     ],
                     "guid": "ypJR#53K::",
@@ -33935,11 +34397,11 @@
                     "__type__": "Note",
                     "fields": [
                         "プレイガイド",
-                        "(theater) ticket agency",
+                        "primary ticket outlet",
                         "'play + guide'",
                         "",
-                        "",
-                        "",
+                        "券売機",
+                        "<img alt=\"券売機のイラスト\" src=\"ticket_kenbaiki.png\">",
                         "pureigaido"
                     ],
                     "guid": "ys`4q~l+NF",
@@ -33982,9 +34444,9 @@
                     "__type__": "Note",
                     "fields": [
                         "ロードショー",
-                        "a premiere",
-                        "'roadshow'",
-                        "the first showing of<br>a movie to a general audience",
+                        "roadshow",
+                        "",
+                        "premiere・the first showing of<br>a movie to a general audience",
                         "映画館の建物",
                         "<img alt=\"映画館の建物のイラスト\" src=\"building_cinema.png\">",
                         "rōdoshō"
@@ -34020,7 +34482,7 @@
                         "",
                         "鉛筆1ダース",
                         "<img alt=\"鉛筆1ダースのイラスト\" src=\"bunbougu_pencil_dozen.png\">",
-                        ""
+                        "dāsu"
                     ],
                     "guid": "z&@cEi=cZ8",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -34294,7 +34756,7 @@
                         "(girls') gym shorts",
                         "体操着を着た女の子",
                         "<img alt=\"体操着を着た女の子のイラスト（赤組）\" src=\"taiiku_red_girl.png\">",
-                        ""
+                        "buruma"
                     ],
                     "guid": "zX{?;Qmi*@",
                     "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -34304,11 +34766,11 @@
                     "__type__": "Note",
                     "fields": [
                         "ペーパーカンパニー",
-                        "bogus company,<br>dummy corporation",
+                        "bogus・dummy・ghost<br>company / corporation",
                         "'paper company'",
-                        "",
-                        "",
-                        "",
+                        "a business entity with no actual operations, <br>often established for purposes such as tax avoidance.",
+                        "幽霊会社・ダミー会社",
+                        "<img alt=\"ペーパーカンパニーのイラスト\" src=\"business_paper_company.png\">",
                         "pēpākanpanī"
                     ],
                     "guid": "zY7AhzN>=F",
@@ -34414,8 +34876,8 @@
                         "musical (play)",
                         "",
                         "",
-                        "",
-                        "",
+                        "ミュージカルのダンサー（女性）",
+                        "<img alt=\"ミュージカルのダンサーのイラスト（女性）\" src=\"musical_dancer_woman.png\">",
                         "myūjikaru"
                     ],
                     "guid": "zj#:V$QVgh",
@@ -34444,8 +34906,8 @@
                         "folk song",
                         "",
                         "extended katakana: フォ (fo)",
-                        "",
-                        "",
+                        "音楽鑑賞",
+                        "<img alt=\"音楽鑑賞のイラスト\" src=\"music_ongaku_kansyou.png\">",
                         "fōkusongu"
                     ],
                     "guid": "zs)D1Q|Xs?",
@@ -34474,7 +34936,7 @@
                         "visa",
                         "",
                         "",
-                        "旅行や留学などで外国に入国・滞在をするときに必要な、パスポートに貼られるビザ（査証）のイラストです。",
+                        "旅行や留学などで外国に入国・<br>滞在をするときに必要な、<br>パスポートに貼られるビザ（査証）",
                         "<img alt=\"ビザのイラスト\" src=\"travel_passport_visa.png\">",
                         "biza"
                     ],
@@ -34489,8 +34951,8 @@
                         "member",
                         "",
                         "",
-                        "",
-                        "",
+                        "円陣を組む棒人間",
+                        "<img alt=\"円陣を組む棒人間のイラスト\" src=\"enjin_figure.png\">",
                         "menbā"
                     ],
                     "guid": "}Bt1-Y%7<",
@@ -34503,8 +34965,101 @@
         }
     ],
     "crowdanki_uuid": "c00c9082-cc8d-11f1-9320-c91b46ae5b85",
-    "deck_config_uuid": "cb02782c-ce2b-11f1-a8cf-5fd3f0b6922e",
+    "deck_config_uuid": "5eb72a80-bb4f-11f1-81d3-3128ceb706b4",
     "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 4,
+            "autoplay": true,
+            "buryInterdayLearning": true,
+            "crowdanki_uuid": "5eb72a80-bb4f-11f1-81d3-3128ceb706b4",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                0.5,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [
+                0.017143631,
+                0.104568064,
+                0.18651786,
+                0.6708335,
+                6.4025607,
+                0.79627866,
+                2.9645567,
+                0.09986356,
+                1.9512959,
+                0.21677125,
+                0.8758236,
+                1.5143913,
+                0.06775803,
+                0.31905982,
+                1.6913155,
+                0.59683996,
+                1.8729,
+                0.5976144,
+                0.06948383,
+                0.037016343,
+                0.315595
+            ],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "1970-01-01",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 2,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 4,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 10.0,
+            "secondsToShowQuestion": 5.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
         {
             "__type__": "DeckConfig",
             "answerAction": 4,
@@ -34524,31 +35079,31 @@
             ],
             "fsrsParams5": [],
             "fsrsParams6": [
-                0.16031414,
-                3.9779184,
-                4.002462,
-                4.9091506,
-                5.9673414,
-                0.37538034,
-                2.2850478,
-                0.004555724,
-                1.4272537,
-                0.16475381,
-                0.59590983,
-                1.3653795,
-                0.12903321,
-                0.28425688,
-                2.3993886,
-                0.6620442,
-                2.6066356,
-                0.7180718,
-                0.0011080018,
-                0.0972236,
-                0.16722009
+                0.22723176,
+                5.512725,
+                5.6492167,
+                17.056347,
+                4.7346497,
+                0.5580203,
+                1.6569737,
+                0.001,
+                1.4920659,
+                0.04195917,
+                0.6858428,
+                1.345885,
+                0.13797514,
+                0.2551647,
+                2.6838913,
+                0.80300415,
+                2.505384,
+                0.80542666,
+                0.0012539426,
+                0.098464,
+                0.15403728
             ],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "1970-01-01",
-            "interdayLearningMix": 2,
+            "interdayLearningMix": 0,
             "lapse": {
                 "delays": [
                     10.0
@@ -34563,7 +35118,6 @@
             "new": {
                 "bury": true,
                 "delays": [
-                    1.0,
                     10.0
                 ],
                 "initialFactor": 2500,
@@ -34573,10 +35127,10 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 100
+                "perDay": 25
             },
-            "newGatherPriority": 0,
-            "newMix": 2,
+            "newGatherPriority": 3,
+            "newMix": 0,
             "newPerDayMinimum": 0,
             "newSortOrder": 0,
             "questionAction": 0,
@@ -34587,15 +35141,108 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 9999
+                "perDay": 999
             },
-            "reviewOrder": 5,
-            "secondsToShowAnswer": 10.0,
-            "secondsToShowQuestion": 6.0,
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 5.0,
+            "secondsToShowQuestion": 5.0,
             "sm2Retention": 0.9,
             "stopTimerOnAnswer": false,
             "timer": 0,
-            "waitForAudio": false,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 4,
+            "autoplay": true,
+            "buryInterdayLearning": true,
+            "crowdanki_uuid": "5257b964-bebd-11f1-85b2-c3ea8e431646",
+            "desiredRetention": 0.85,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [
+                0.056408416,
+                0.5273971,
+                1.316654,
+                2.8703923,
+                6.498338,
+                0.6389175,
+                3.1173682,
+                0.0010818287,
+                1.387261,
+                0.070931345,
+                0.2437425,
+                1.4749875,
+                0.05705173,
+                0.2723408,
+                1.685665,
+                0.53265464,
+                1.9227425,
+                0.46649584,
+                0.007452206,
+                0.09842405,
+                0.23904175
+            ],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "1970-01-01",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Drawing and Typing",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 61
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 999
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 9.0,
+            "secondsToShowQuestion": 11.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
             "weightSearch": ""
         }
     ],
@@ -34605,26 +35252,19 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
-        "_Mplus2-Regular.ttf",
-        "gym_running_man.png",
-        "harem_woman.png",
-        "illustkun-01059-belgium-flag.png",
-        "illustkun-01137-greece-flag.png",
-        "illustkun-01862-turkey-flag.png",
-        "illustkun-05090-cypriot-flag.png",
-        "illustkun-05136-jordan-flag.png",
-        "pose_kakushigoto_man.png",
-        "search_mushimegane.png",
-        "sns_profile_sasyou_nekama_man.png"
+        "_Mplus2-Regular.ttf"
     ],
     "name": "🇯🇵 日本語::Katakana Practice",
-    "newLimit": 10,
-    "newLimitToday": null,
+    "newLimit": 20,
+    "newLimitToday": {
+        "limit": 20,
+        "today": 299
+    },
     "note_models": [
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "css": "@font-face {\n  font-family: \"M Plus 2\";\n  src: url(\"_Mplus2-Regular.ttf\");\n}\n\nhtml, body {\n  height: 100%;\n  margin: 0;\n}\n\n.card {\n  font-family: \"M Plus 2\", system-ui, sans-serif;\n  color: #fff;\n  box-sizing: border-box;\n  max-width: 800px;\n  margin: 0 auto;\n  text-align: center;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n\tgap: 1rem;\n}\n\n.katakana-front {\n  font-size: clamp(1.8rem, 8vw, 3rem);\n  font-weight: 700;\n  white-space: nowrap;\n}\n\n.katakana-back {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  font-size: clamp(1.5rem, 5vw, 2rem);\n  font-weight: 200;\n  opacity: 0.7;\n  white-space: nowrap;\n  cursor: pointer;\n  transition: opacity 0.2s;\n  position: relative;\n}\n\n.katakana-back:hover {\n  opacity: 1;\n  color: #89b4fa;\n}\n\n.romaji-hover, .tooltip {\n  visibility: hidden;\n  opacity: 0;\n  color: rgba(255, 255, 255, 0.6);\n  white-space: nowrap;\n  pointer-events: none;\n  transition: opacity 0.25s cubic-bezier(0.16, 1, 0.3, 1), \n              transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), \n              visibility 0.25s ease;\n}\n\n.romaji-hover {\n  font-size: 0.7em;\n  margin-bottom: 10px;\n  transform: translateY(16px);\n}\n\n.katakana-back:hover .romaji-hover,\n.img-src:hover .romaji-hover {\n  visibility: visible;\n  opacity: 1;\n  transform: translateY(0);\n}\n\n.meaning {\n  font-size: 1.85rem;\n  font-weight: 550;\n  cursor: pointer;\n}\n\n.origin, .notes {\n  font-style: italic;\n  opacity: 0.85;\n}\n\n.origin {\n  font-size: 1.05rem;\n  margin-bottom: 0.5rem;\n}\n\n.notes {\n  font-size: 0.95rem;\n  opacity: 0.7;\n}\n\nimg {\n  max-width: 60vw;\n  max-height: 30vh;\n  object-fit: contain;\n  border-radius: 8px;\n}\n\n.img-src { \n  position: relative; \n  display: inline-block;\n  cursor: pointer;\n}\n\n.tooltip {\n  position: absolute; \n  top: 100%; \n  left: 50%; \n  margin-top: 10px;\n  transform: translateY(16px) translateX(-50%);\n}\n\n.img-src:hover .tooltip, \n.img-src:active .tooltip { \n  visibility: visible;\n  opacity: 1;\n  transform: translateY(0) translateX(-50%);\n}\n\n.audio,\n.audio * { display: none; }\n\ncode#typeans { font: inherit; font-size: 2rem; background: none; }\ncode#typeans br ~ .typeGood { background: none; color: #fff; }\n.typeGood { background: #2e4338; color: #a6e3a1; }\n.typeBad { background: #4a2933; color: #f38ba8; }\n.typeMissed { background: #42362b; color: #fab387; }\n\n.type-result-container {\n  position: relative;\n  font-size: 2.5rem;\n  margin-bottom: 0.75rem;\n  cursor: pointer;\n}\n\n.type-result-container:hover .romaji-hover {\n  visibility: visible;\n  opacity: 1;\n  transform: translateY(0);\n}",
+            "css": "@font-face {\n  font-family: \"M Plus 2\";\n  src: url(\"_Mplus2-Regular.ttf\");\n}\n\nhtml, body {\n  height: 100%;\n  margin: 0;\n}\n\n.card {\n  font-family: \"M Plus 2\", system-ui, sans-serif;\n  box-sizing: border-box;\n  max-width: 800px;\n  margin: 0 auto;\n  text-align: center;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n\tgap: 1rem;\n}\n\n.katakana-front {\n  font-size: clamp(1.8rem, 8vw, 3rem);\n  font-weight: 700;\n  white-space: nowrap;\n}\n\n.katakana-back {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  font-size: clamp(1.5rem, 5vw, 2rem);\n  font-weight: 200;\n  opacity: 0.7;\n  white-space: nowrap;\n  cursor: pointer;\n  transition: opacity 0.2s;\n  position: relative;\n}\n\n.katakana-back:hover {\n  opacity: 1;\n  color: #89b4fa;\n}\n\n.romaji-hover, .tooltip {\n  visibility: hidden;\n  opacity: 0;\n  color: rgba(255, 255, 255, 0.6);\n  white-space: nowrap;\n  pointer-events: none;\n  transition: opacity 0.25s cubic-bezier(0.16, 1, 0.3, 1), \n              transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), \n              visibility 0.25s ease;\n}\n\n.romaji-hover {\n  font-size: 0.7em;\n  margin-bottom: 10px;\n  transform: translateY(16px);\n}\n\n.katakana-back:hover .romaji-hover,\n.img-src:hover .romaji-hover {\n  visibility: visible;\n  opacity: 1;\n  transform: translateY(0);\n}\n\n.meaning {\n  font-size: 1.85rem;\n  font-weight: 550;\n  cursor: pointer;\n}\n\n.origin, .notes {\n  font-style: italic;\n  opacity: 0.85;\n}\n\n.origin {\n  font-size: 1.05rem;\n  margin-bottom: 0.5rem;\n}\n\n.notes {\n  font-size: 0.95rem;\n  opacity: 0.7;\n}\n\nimg {\n  max-width: 60vw;\n  max-height: 30vh;\n  object-fit: contain;\n  border-radius: 8px;\n}\n\n.img-src { \n  position: relative; \n  display: inline-block;\n  cursor: pointer;\n}\n\n.tooltip {\n  position: absolute; \n  top: 100%; \n  left: 50%; \n  margin-top: 10px;\n  transform: translateY(16px) translateX(-50%);\n}\n\n.img-src:hover .tooltip, \n.img-src:active .tooltip { \n  visibility: visible;\n  opacity: 1;\n  transform: translateY(0) translateX(-50%);\n}\n\n.audio,\n.audio * { display: none; }\n\ncode#typeans { font: inherit; font-size: 2rem; background: none; }\ncode#typeans br ~ .typeGood { background: none; color: #fff; }\n.typeGood { background: #2e4338; color: #a6e3a1; }\n.typeBad { background: #4a2933; color: #f38ba8; }\n.typeMissed { background: #42362b; color: #fab387; }\n\n.type-result-container {\n  position: relative;\n  font-size: 2.5rem;\n  margin-bottom: 0.75rem;\n  cursor: pointer;\n}\n\n.type-result-container:hover .romaji-hover {\n  visibility: visible;\n  opacity: 1;\n  transform: translateY(0);\n}\n\n#chimahon { color: inherit; text-decoration: none; }",
             "flds": [
                 {
                     "collapsed": false,
@@ -34763,7 +35403,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "<div class=\"card\">\n  <div class=\"katakana-back play-tts\">\n    {{#Rōmaji}}<div class=\"romaji-hover\">{{Rōmaji}}</div>{{/Rōmaji}}\n    <div>{{furigana:Katakana}}</div>\n    <div class=\"audio\">{{tts ja_JP voices=com.brahmadeo.supertonic.tts-ja-supertonic-F1:Katakana}}</div>\n  </div>\n  \n  <div class=\"meaning play-tts\">\n    {{Meaning}}<div class=\"audio\">{{tts ja_JP voices=com.brahmadeo.supertonic.tts-en-supertonic-F1:Meaning}}</div>\n  </div>\n\n  {{#Origin}}<div class=\"origin\">{{Origin}}</div>{{/Origin}}\n  {{#Notes}}<div class=\"notes\">{{Notes}}</div>{{/Notes}}<br>\n\n  {{#Image}}\n    <div class=\"img-src play-tts\">\n      {{Image}}\n      {{#ImageDesc}}<div class=\"tooltip\">{{ImageDesc}}</div>{{/ImageDesc}}\n      <div class=\"audio\">{{tts ja_JP voices=com.brahmadeo.supertonic.tts-ja-supertonic-F1:kana:ImageDesc}}</div>\n    </div>\n  {{/Image}}\n</div>\n\n<script>\n  document.querySelectorAll('.play-tts').forEach(el => {\n    el.onclick = () => el.querySelector('a, .replay-button')?.click();\n  });\n</script>",
+                    "afmt": "<div class=\"card\">\n\n\t<div class=\"katakana-back play-tts\">\n  \t\t<div class=\"audio\">{{tts ja_JP voices=com.brahmadeo.supertonic.tts-ja-supertonic-F1:Katakana}}</div>\n\t\t{{#Rōmaji}}<div class=\"romaji-hover\">{{Rōmaji}}</div>{{/Rōmaji}}\n\t\t<a id=\"chimahon\" href=\"#\">{{furigana:Katakana}}</a>\n\t</div>\n\n  <div class=\"meaning play-tts\">\n    {{Meaning}}<div class=\"audio\">{{tts ja_JP voices=com.brahmadeo.supertonic.tts-en-supertonic-F1:Meaning}}</div>\n  </div>\n\n  {{#Origin}}<div class=\"origin\">{{Origin}}</div>{{/Origin}}\n  {{#Notes}}<div class=\"notes\">{{Notes}}</div>{{/Notes}}<br>\n\n  {{#Image}}\n    <div class=\"img-src play-tts\">\n      {{Image}}\n      {{#ImageDesc}}<div class=\"tooltip\">{{ImageDesc}}</div>{{/ImageDesc}}\n      <div class=\"audio\">{{tts ja_JP voices=com.brahmadeo.supertonic.tts-ja-supertonic-F1:kana:ImageDesc}}</div>\n    </div>\n  {{/Image}}\n</div>\n\n<script>\n  document.querySelectorAll('.play-tts').forEach(el => {\n    el.onclick = () => el.querySelector('.audio a, .replay-button')?.click();\n  });\n\n  if (/Android/i.test(navigator.userAgent))\n    document.getElementById(\"chimahon\").href = `intent:#Intent;action=android.intent.action.PROCESS_TEXT;package=app.chimahon;type=text/plain;S.android.intent.extra.PROCESS_TEXT=${encodeURIComponent(`{{text:Katakana}}`)};end;`;\n</script>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Katakana}}",
@@ -34791,191 +35431,7 @@
             "vers": []
         }
     ],
-    "notes": [
-        {
-            "__type__": "Note",
-            "fields": [
-                "トルコ",
-                "Turkey",
-                "Portuguese 'Turco'",
-                "",
-                "トルコ",
-                "<img alt=\"国旗のイラスト（トルコ）\" src=\"illustkun-01862-turkey-flag.png\">",
-                "toruko"
-            ],
-            "guid": "AE?cH&6jR$",
-            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "パイプカット",
-                "vasectomy",
-                "'pipe cut'",
-                "",
-                "",
-                "",
-                "paipukatto"
-            ],
-            "guid": "Ay8=X)|qiv",
-            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": [
-                "Katakana-Practice::wasei"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ヨルダン",
-                "Jordan",
-                "",
-                "",
-                "ヨルダンの国旗",
-                "<img alt=\"国旗のイラスト（ヨルダン・ハシミテ王国）\" src=\"illustkun-05136-jordan-flag.png\">",
-                "yorudan"
-            ],
-            "guid": "G:^%QO2eiC",
-            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": [
-                "Katakana-Practice::place"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ルームランナー",
-                "treadmill",
-                "'room runner'",
-                "esp. for home use",
-                "スポーツジムのランニングマシーンを使って走っている男性",
-                "<img alt=\"ランニングマシンで走る人のイラスト（男性）\" src=\"gym_running_man.png\">",
-                "rūmurannā"
-            ],
-            "guid": "GHD!@p+4&",
-            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": [
-                "Katakana-Practice::wasei"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ググる",
-                "to google",
-                "",
-                "",
-                "検索虫眼鏡",
-                "<img alt=\"検索虫眼鏡のイラスト「Search」\" src=\"search_mushimegane.png\">",
-                "guguru"
-            ],
-            "guid": "HP9~wtk0%H",
-            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": [
-                "Katakana-Practice::colloquial"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ネカマ",
-                "GIRL<br>(Guy In Real Life)",
-                "ネ(ット) 'Internet' + (オ)カマ 'faggot'",
-                "",
-                "ネット上のなりすまし",
-                "<img alt=\"ネット上のなりすましのイラスト（男性）\" src=\"sns_profile_sasyou_nekama_man.png\">",
-                "nekama"
-            ],
-            "guid": "bRZ-4P,~j",
-            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": [
-                "Katakana-Practice::colloquial"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ギリシャ",
-                "Greece",
-                "Portuguese: 'Grécia'",
-                "",
-                "ギリシャの国旗",
-                "<img alt=\"国旗のイラスト（ギリシャ）\" src=\"illustkun-01137-greece-flag.png\">",
-                "girisha"
-            ],
-            "guid": "gA{V@I?Mi/",
-            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": [
-                "Katakana-Practice::place"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "モテる",
-                "to be popular",
-                "Japanese 持てる 'to be able to possess'",
-                "to be well-liked esp. with the opposite sex<br>not 'motel' (モテル)",
-                "モテモテの女性が沢山の男性達に<br>囲まれてハーレム状態になっている",
-                "<img alt=\"モテる人のイラスト（女性）\" src=\"harem_woman.png\">",
-                "moteru"
-            ],
-            "guid": "qEGWbzk-_#",
-            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": [
-                "Katakana-Practice::colloquial"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ベルギー",
-                "Belgium",
-                "",
-                "",
-                "ベルギーの国旗",
-                "<img alt=\"国旗のイラスト（ベルギー）\" src=\"illustkun-01059-belgium-flag.png\">",
-                "berugī"
-            ],
-            "guid": "rls^7cf3eL",
-            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": [
-                "Katakana-Practice::place"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "キプロス",
-                "Cyprus",
-                "Greek: 'Kýpros'",
-                "",
-                "キプロスの国旗",
-                "<img alt=\"国旗のイラスト（キプロス共和国）\" src=\"illustkun-05090-cypriot-flag.png\">",
-                "kipurosu"
-            ],
-            "guid": "wjW&7-$(@_",
-            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": [
-                "Katakana-Practice::place"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "バレる",
-                "to be found out",
-                "",
-                "",
-                "何か隠し事をしていて、<br>後ろめたい表情をしている男性",
-                "<img alt=\"隠し事をしている人のイラスト（男性）\" src=\"pose_kakushigoto_man.png\">",
-                "bareru"
-            ],
-            "guid": "y#pxBhRS6>",
-            "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
-        }
-    ],
+    "notes": [],
     "reviewLimit": null,
     "reviewLimitToday": null
 }
